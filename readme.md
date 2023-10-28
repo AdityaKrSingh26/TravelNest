@@ -5,15 +5,18 @@ TravelNest is a hotel booking website with a modern user interface and a user-fr
 
 ## Screenshots
 Include screenshots of your project here.
-!["login"](UI/login.png)<img width="916" alt="booking1" src="https://github.com/AdityaKrSingh26/TravelNest/assets/128071145/17d18c3f-91aa-4091-be20-ccd21bf9894b">
 
-![](UI/homepage.png)
-![](UI/featured.png)
-![](UI/faq.png)
-![](UI/footer.png)
-![](UI/hotels.png)
-![](UI/booking1.png)
-![](UI/booking2.png)
+<img width="958" alt="login" src="https://github.com/AdityaKrSingh26/TravelNest/assets/128071145/f038d3c6-deac-4afd-ba1d-1668d5037da0">
+<img width="949" alt="homepage" src="https://github.com/AdityaKrSingh26/TravelNest/assets/128071145/122ba745-67ef-4d25-9c7e-99008f37f729">
+<img width="943" alt="featured" src="https://github.com/AdityaKrSingh26/TravelNest/assets/128071145/c7a3dadb-6b0a-43ce-9a94-be0f1d5b22f5">
+
+
+<img width="942" alt="faq" src="https://github.com/AdityaKrSingh26/TravelNest/assets/128071145/dd2cc68d-1ed5-4a8a-8a46-63bab50e4eb6">
+<img width="949" alt="hotels" src="https://github.com/AdityaKrSingh26/TravelNest/assets/128071145/8e9db0c5-9a0b-418c-b966-22daeabd9005">
+<img width="916" alt="booking1" src="https://github.com/AdityaKrSingh26/TravelNest/assets/128071145/ba52adc9-10b6-4a72-9c5d-0c2b4426031d">
+
+<img width="898" alt="booking2" src="https://github.com/AdityaKrSingh26/TravelNest/assets/128071145/41ffaaa4-d9ee-4369-88b3-79f807804500">
+
 
 
 ## Features Implemented
