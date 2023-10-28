@@ -1,0 +1,389 @@
+[
+    {
+        "name": "Sunset Beach Resort",
+        "address": "123 Ocean Drive",
+        "city": "Mumbai",
+        "state": "Maharashtra",
+        "country": "India",
+        "price": 150,
+        "roomsAvailable": 50,
+        "amenities": [
+            "Swimming Pool",
+            "Spa",
+            "Restaurant",
+            "Gym",
+            "Free Wi-Fi"
+        ],
+        "roomPictures": [
+            "https://images.unsplash.com/photo-1611892440504-42a792e24d32?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80",
+            "https://images.unsplash.com/photo-1602002418082-a4443e081dd1?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=774&q=80",
+            "https://plus.unsplash.com/premium_photo-1661884238187-1c274b3c3413?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1032&q=80"
+        ],
+        "reviews": [
+            {
+                "reviewText": "Beautiful view of the sunset!",
+                "rating": 5
+            },
+            {
+                "reviewText": "Great food and service.",
+                "rating": 4
+            },
+            {
+                "reviewText": "Room cleanliness needs improvement.",
+                "rating": 3
+            },
+            {
+                "reviewText": "Fantastic stay!",
+                "rating": 5
+            },
+            {
+                "reviewText": "Not worth the price.",
+                "rating": 2
+            }
+        ]
+    },
+    {
+        "name": "Grand Palace Hotel",
+        "address": "456 Downtown Avenue",
+        "city": "Mumbai",
+        "state": "Maharashtra",
+        "country": "India",
+        "price": 200,
+        "roomsAvailable": 80,
+        "amenities": [
+            "Swimming Pool",
+            "Spa",
+            "Restaurant",
+            "Conference Rooms",
+            "Free Breakfast"
+        ],
+        "roomPictures": [
+            "https://images.unsplash.com/photo-1611892440504-42a792e24d32?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80",
+            "https://images.unsplash.com/photo-1602002418082-a4443e081dd1?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=774&q=80",
+            "https://plus.unsplash.com/premium_photo-1661884238187-1c274b3c3413?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1032&q=80"
+        ],
+        "reviews": [
+            {
+                "reviewText": "Elegant and luxurious.",
+                "rating": 5
+            },
+            {
+                "reviewText": "Friendly staff and great food.",
+                "rating": 4
+            },
+            {
+                "reviewText": "Comfortable beds.",
+                "rating": 4
+            },
+            {
+                "reviewText": "Noisy surroundings.",
+                "rating": 3
+            },
+            {
+                "reviewText": "Would stay again!",
+                "rating": 4
+            }
+        ]
+    },
+    {
+        "name": "Mumbai Harbor View Inn",
+        "address": "789 Seaside Road",
+        "city": "Mumbai",
+        "state": "Maharashtra",
+        "country": "India",
+        "price": 120,
+        "roomsAvailable": 40,
+        "amenities": [
+            "Sea View",
+            "Free Wi-Fi",
+            "Restaurant",
+            "Bar",
+            "Fitness Center"
+        ],
+        "roomPictures": [
+            "https://images.unsplash.com/photo-1611892440504-42a792e24d32?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80",
+            "https://images.unsplash.com/photo-1602002418082-a4443e081dd1?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=774&q=80",
+            "https://plus.unsplash.com/premium_photo-1661884238187-1c274b3c3413?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1032&q=80"
+        ],
+        "reviews": [
+            {
+                "reviewText": "Breathtaking view of the harbor!",
+                "rating": 5
+            },
+            {
+                "reviewText": "Cozy and comfortable rooms.",
+                "rating": 4
+            },
+            {
+                "reviewText": "Slow service at the restaurant.",
+                "rating": 3
+            },
+            {
+                "reviewText": "Excellent value for money.",
+                "rating": 5
+            },
+            {
+                "reviewText": "Could use some renovation.",
+                "rating": 2
+            }
+        ]
+    },
+    {
+        "name": "Royal Orchid Suites",
+        "address": "101 Luxury Lane",
+        "city": "Mumbai",
+        "state": "Maharashtra",
+        "country": "India",
+        "price": 180,
+        "roomsAvailable": 60,
+        "amenities": [
+            "Swimming Pool",
+            "Spa",
+            "Restaurant",
+            "Business Center",
+            "Free Airport Shuttle"
+        ],
+        "roomPictures": [
+            "https://images.unsplash.com/photo-1611892440504-42a792e24d32?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80",
+            "https://images.unsplash.com/photo-1602002418082-a4443e081dd1?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=774&q=80",
+            "https://plus.unsplash.com/premium_photo-1661884238187-1c274b3c3413?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1032&q=80"
+        ],
+        "reviews": [
+            {
+                "reviewText": "Top-notch service!",
+                "rating": 5
+            },
+            {
+                "reviewText": "Spacious and well-maintained suites.",
+                "rating": 5
+            },
+            {
+                "reviewText": "Great for business travelers.",
+                "rating": 4
+            },
+            {
+                "reviewText": "Quick check-in process.",
+                "rating": 5
+            },
+            {
+                "reviewText": "Pricey but worth it.",
+                "rating": 4
+            }
+        ]
+    },
+    {
+        "name": "Cityscape Hotel",
+        "address": "222 Skyscraper Road",
+        "city": "Mumbai",
+        "state": "Maharashtra",
+        "country": "India",
+        "price": 160,
+        "roomsAvailable": 70,
+        "amenities": [
+            "Rooftop Bar",
+            "Fitness Center",
+            "Free Wi-Fi",
+            "Conference Rooms",
+            "Spa"
+        ],
+        "roomPictures": [
+            "https://images.unsplash.com/photo-1611892440504-42a792e24d32?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80",
+            "https://images.unsplash.com/photo-1602002418082-a4443e081dd1?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=774&q=80",
+            "https://plus.unsplash.com/premium_photo-1661884238187-1c274b3c3413?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1032&q=80"
+        ],
+        "reviews": [
+            {
+                "reviewText": "Spectacular city views!",
+                "rating": 5
+            },
+            {
+                "reviewText": "Modern and stylish rooms.",
+                "rating": 4
+            },
+            {
+                "reviewText": "Noisy rooftop bar at night.",
+                "rating": 3
+            },
+            {
+                "reviewText": "Convenient location for business travelers.",
+                "rating": 4
+            },
+            {
+                "reviewText": "Average service at the front desk.",
+                "rating": 3
+            }
+        ]
+    },
+    {
+        "name": "Palm Oasis Resort",
+        "address": "333 Palm Street",
+        "city": "Mumbai",
+        "state": "Maharashtra",
+        "country": "India",
+        "price": 220,
+        "roomsAvailable": 45,
+        "amenities": [
+            "Private Beach",
+            "Spa",
+            "Restaurant",
+            "Tennis Courts",
+            "Free Parking"
+        ],
+        "roomPictures": [
+            "https://images.unsplash.com/photo-1611892440504-42a792e24d32?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80",
+            "https://images.unsplash.com/photo-1602002418082-a4443e081dd1?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=774&q=80",
+            "https://plus.unsplash.com/premium_photo-1661884238187-1c274b3c3413?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1032&q=80"
+        ],
+        "reviews": [
+            {
+                "reviewText": "Relaxing and peaceful.",
+                "rating": 5
+            },
+            {
+                "reviewText": "Beachfront paradise.",
+                "rating": 5
+            },
+            {
+                "reviewText": "Average dining options.",
+                "rating": 3
+            },
+            {
+                "reviewText": "Great for a romantic getaway.",
+                "rating": 5
+            },
+            {
+                "reviewText": "Could improve room service.",
+                "rating": 3
+            }
+        ]
+    },
+    {
+        "name": "Green Valley Retreat",
+        "address": "444 Nature Trail",
+        "city": "Mumbai",
+        "state": "Maharashtra",
+        "country": "India",
+        "price": 100,
+        "roomsAvailable": 30,
+        "amenities": [
+            "Nature Walks",
+            "Campfire",
+            "Restaurant",
+            "Pet-Friendly",
+            "Free Breakfast"
+        ],
+        "roomPictures": [
+            "https://images.unsplash.com/photo-1611892440504-42a792e24d32?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80",
+            "https://images.unsplash.com/photo-1602002418082-a4443e081dd1?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=774&q=80",
+            "https://plus.unsplash.com/premium_photo-1661884238187-1c274b3c3413?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1032&q=80"
+        ],
+        "reviews": [
+            {
+                "reviewText": "Surrounded by lush greenery!",
+                "rating": 5
+            },
+            {
+                "reviewText": "Perfect for nature lovers.",
+                "rating": 5
+            },
+            {
+                "reviewText": "Limited room service menu.",
+                "rating": 3
+            },
+            {
+                "reviewText": "Great for families.",
+                "rating": 4
+            },
+            {
+                "reviewText": "Affordable and serene.",
+                "rating": 4
+            }
+        ]
+    },
+    {
+        "name": "Luxury Heights",
+        "address": "555 Skyline Avenue",
+        "city": "Mumbai",
+        "state": "Maharashtra",
+        "country": "India",
+        "price": 250,
+        "roomsAvailable": 25,
+        "amenities": [
+            "Infinity Pool",
+            "Fine Dining",
+            "Spa",
+            "Fitness Center",
+            "Free Airport Shuttle"
+        ],
+        "roomPictures": [
+            "https://images.unsplash.com/photo-1611892440504-42a792e24d32?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80",
+            "https://images.unsplash.com/photo-1602002418082-a4443e081dd1?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=774&q=80",
+            "https://plus.unsplash.com/premium_photo-1661884238187-1c274b3c3413?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1032&q=80"
+        ],
+        "reviews": [
+            {
+                "reviewText": "Stunning infinity pool!",
+                "rating": 5
+            },
+            {
+                "reviewText": "Elegant and upscale.",
+                "rating": 5
+            },
+            {
+                "reviewText": "Expensive but worth every penny.",
+                "rating": 5
+            },
+            {
+                "reviewText": "Impeccable service.",
+                "rating": 5
+            },
+            {
+                "reviewText": "A true luxury experience.",
+                "rating": 5
+            }
+        ]
+    },
+    {
+        "name": "Tranquil Meadows Lodge",
+        "address": "666 Serenity Lane",
+        "city": "Mumbai",
+        "state": "Maharashtra",
+        "country": "India",
+        "price": 80,
+        "roomsAvailable": 15,
+        "amenities": [
+            "Nature Retreat",
+            "Campfire",
+            "Free Wi-Fi",
+            "Pet-Friendly",
+            "Library"
+        ],
+        "roomPictures": [
+            "https://images.unsplash.com/photo-1611892440504-42a792e24d32?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80",
+            "https://images.unsplash.com/photo-1602002418082-a4443e081dd1?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=774&q=80",
+            "https://plus.unsplash.com/premium_photo-1661884238187-1c274b3c3413?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1032&q=80"
+        ],
+        "reviews": [
+            {
+                "reviewText": "Peaceful and relaxing getaway.",
+                "rating": 5
+            },
+            {
+                "reviewText": "Cozy cabins in a serene setting.",
+                "rating": 4
+            },
+            {
+                "reviewText": "Limited dining options.",
+                "rating": 3
+            },
+            {
+                "reviewText": "Perfect for a digital detox.",
+                "rating": 4
+            },
+            {
+                "reviewText": "Friendly staff.",
+                "rating": 4
+            }
+        ]
+    }
+]

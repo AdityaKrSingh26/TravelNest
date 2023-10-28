@@ -1,0 +1,442 @@
+[
+    {
+        "name": "Sapphire Paradise",
+        "address": "123 Ocean View Road",
+        "city": "Chennai",
+        "state": "Tamil Nadu",
+        "country": "India",
+        "price": 150,
+        "roomsAvailable": 50,
+        "amenities": [
+            "Free Wi-Fi",
+            "Swimming Pool",
+            "Gym",
+            "Spa",
+            "Restaurant"
+        ],
+        "roomPictures": [
+            "https://images.unsplash.com/photo-1496417263034-38ec4f0b665a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=871&q=80",
+            "https://images.unsplash.com/photo-1631049035182-249067d7618e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80",
+            "https://images.unsplash.com/photo-1507038772120-7fff76f79d79?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=774&q=80"
+        ],
+        "reviews": [
+            {
+                "reviewText": "Excellent stay! Highly recommended.",
+                "rating": 5
+            },
+            {
+                "reviewText": "Average service, but good location.",
+                "rating": 3
+            },
+            {
+                "reviewText": "Beautiful rooms with a view.",
+                "rating": 4
+            },
+            {
+                "reviewText": "Terrible experience, dirty rooms.",
+                "rating": 1
+            },
+            {
+                "reviewText": "Friendly staff, great amenities.",
+                "rating": 5
+            }
+        ],
+        "phoneNumber": "+911234567890"
+    },
+    {
+        "name": "Golden Sands Resort",
+        "address": "456 Beachfront Avenue",
+        "city": "Chennai",
+        "state": "Tamil Nadu",
+        "country": "India",
+        "price": 200,
+        "roomsAvailable": 30,
+        "amenities": [
+            "Private Beach",
+            "Poolside Bar",
+            "Fitness Center",
+            "Restaurant",
+            "Water Sports"
+        ],
+        "roomPictures": [
+            "https://images.unsplash.com/photo-1496417263034-38ec4f0b665a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=871&q=80",
+            "https://images.unsplash.com/photo-1631049035182-249067d7618e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80",
+            "https://images.unsplash.com/photo-1507038772120-7fff76f79d79?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=774&q=80"
+        ],
+        "reviews": [
+            {
+                "reviewText": "A perfect beach getaway!",
+                "rating": 5
+            },
+            {
+                "reviewText": "Great food and friendly staff.",
+                "rating": 4
+            },
+            {
+                "reviewText": "Not worth the price.",
+                "rating": 2
+            },
+            {
+                "reviewText": "Lovely rooms with sea view.",
+                "rating": 4
+            },
+            {
+                "reviewText": "Excellent water sports activities.",
+                "rating": 5
+            }
+        ],
+        "phoneNumber": "+911234567891"
+    },
+    {
+        "name": "Royal Orchid Palace",
+        "address": "789 Regal Street",
+        "city": "Chennai",
+        "state": "Tamil Nadu",
+        "country": "India",
+        "price": 180,
+        "roomsAvailable": 40,
+        "amenities": [
+            "Spa",
+            "Fine Dining",
+            "Conference Rooms",
+            "Fitness Center",
+            "Free Breakfast"
+        ],
+        "roomPictures": [
+            "https://images.unsplash.com/photo-1496417263034-38ec4f0b665a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=871&q=80",
+            "https://images.unsplash.com/photo-1631049035182-249067d7618e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80",
+            "https://images.unsplash.com/photo-1507038772120-7fff76f79d79?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=774&q=80"
+        ],
+        "reviews": [
+            {
+                "reviewText": "Luxury at its best!",
+                "rating": 5
+            },
+            {
+                "reviewText": "Great place for business travelers.",
+                "rating": 4
+            },
+            {
+                "reviewText": "Impersonal service, but clean rooms.",
+                "rating": 3
+            },
+            {
+                "reviewText": "Good for a short stay.",
+                "rating": 3
+            },
+            {
+                "reviewText": "Breakfast was disappointing.",
+                "rating": 2
+            }
+        ],
+        "phoneNumber": "+911234567892"
+    },
+    {
+        "name": "Mystic Heights Resort",
+        "address": "101 Mountain View Road",
+        "city": "Chennai",
+        "state": "Tamil Nadu",
+        "country": "India",
+        "price": 250,
+        "roomsAvailable": 25,
+        "amenities": [
+            "Hiking Trails",
+            "Infinity Pool",
+            "Restaurant",
+            "Pet-Friendly",
+            "Bar"
+        ],
+        "roomPictures": [
+            "https://images.unsplash.com/photo-1496417263034-38ec4f0b665a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=871&q=80",
+            "https://images.unsplash.com/photo-1631049035182-249067d7618e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80",
+            "https://images.unsplash.com/photo-1507038772120-7fff76f79d79?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=774&q=80"
+        ],
+        "reviews": [
+            {
+                "reviewText": "Breathtaking views from the resort!",
+                "rating": 5
+            },
+            {
+                "reviewText": "Excellent for nature lovers.",
+                "rating": 5
+            },
+            {
+                "reviewText": "Overpriced for what it offers.",
+                "rating": 2
+            },
+            {
+                "reviewText": "Pet-friendly policy is a plus.",
+                "rating": 4
+            },
+            {
+                "reviewText": "Amazing infinity pool!",
+                "rating": 5
+            }
+        ],
+        "phoneNumber": "+911234567893"
+    },
+    {
+        "name": "Tranquil Oasis",
+        "address": "222 Serene Lane",
+        "city": "Chennai",
+        "state": "Tamil Nadu",
+        "country": "India",
+        "price": 170,
+        "roomsAvailable": 35,
+        "amenities": [
+            "Yoga Retreat",
+            "Meditation Center",
+            "Ayurvedic Spa",
+            "Vegetarian Cuisine",
+            "Library"
+        ],
+        "roomPictures": [
+            "https://images.unsplash.com/photo-1496417263034-38ec4f0b665a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=871&q=80",
+            "https://images.unsplash.com/photo-1631049035182-249067d7618e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80",
+            "https://images.unsplash.com/photo-1507038772120-7fff76f79d79?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=774&q=80"
+        ],
+        "reviews": [
+            {
+                "reviewText": "A peaceful retreat for the soul.",
+                "rating": 5
+            },
+            {
+                "reviewText": "Perfect for yoga enthusiasts.",
+                "rating": 4
+            },
+            {
+                "reviewText": "Healthy vegetarian food options.",
+                "rating": 4
+            },
+            {
+                "reviewText": "Library needs more books.",
+                "rating": 3
+            },
+            {
+                "reviewText": "Great place to unwind.",
+                "rating": 5
+            }
+        ],
+        "phoneNumber": "+911234567894"
+    },
+    {
+        "name": "Urban Elegance Hotel",
+        "address": "333 Downtown Avenue",
+        "city": "Chennai",
+        "state": "Tamil Nadu",
+        "country": "India",
+        "price": 120,
+        "roomsAvailable": 60,
+        "amenities": [
+            "City Views",
+            "Rooftop Bar",
+            "Business Center",
+            "Concierge Service",
+            "Free Wi-Fi"
+        ],
+        "roomPictures": [
+            "https://images.unsplash.com/photo-1496417263034-38ec4f0b665a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=871&q=80",
+            "https://images.unsplash.com/photo-1631049035182-249067d7618e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80",
+            "https://images.unsplash.com/photo-1507038772120-7fff76f79d79?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=774&q=80"
+        ],
+        "reviews": [
+            {
+                "reviewText": "Convenient location for business travelers.",
+                "rating": 4
+            },
+            {
+                "reviewText": "Noisy at night, hard to sleep.",
+                "rating": 2
+            },
+            {
+                "reviewText": "Friendly and helpful staff.",
+                "rating": 5
+            },
+            {
+                "reviewText": "Great city views from the rooftop.",
+                "rating": 4
+            },
+            {
+                "reviewText": "Good value for money.",
+                "rating": 4
+            }
+        ],
+        "phoneNumber": "+911234567895"
+    },
+    {
+        "name": "Vintage Charm Inn",
+        "address": "444 Heritage Street",
+        "city": "Chennai",
+        "state": "Tamil Nadu",
+        "country": "India",
+        "price": 100,
+        "roomsAvailable": 70,
+        "amenities": [
+            "Antique Decor",
+            "Cozy Fireplace",
+            "Tea Room",
+            "Gardens",
+            "Live Music"
+        ],
+        "roomPictures": [
+            "https://images.unsplash.com/photo-1496417263034-38ec4f0b665a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=871&q=80",
+            "https://images.unsplash.com/photo-1631049035182-249067d7618e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80",
+            "https://images.unsplash.com/photo-1507038772120-7fff76f79d79?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=774&q=80"
+        ],
+        "reviews": [
+            {
+                "reviewText": "Quaint and charming inn.",
+                "rating": 5
+            },
+            {
+                "reviewText": "Cozy atmosphere by the fireplace.",
+                "rating": 5
+            },
+            {
+                "reviewText": "Tea room is a delightful experience.",
+                "rating": 4
+            },
+            {
+                "reviewText": "Beautiful gardens to stroll in.",
+                "rating": 4
+            },
+            {
+                "reviewText": "Live music adds a nice touch.",
+                "rating": 4
+            }
+        ],
+        "phoneNumber": "+911234567896"
+    },
+    {
+        "name": "Harbor View Suites",
+        "address": "555 Waterfront Road",
+        "city": "Chennai",
+        "state": "Tamil Nadu",
+        "country": "India",
+        "price": 220,
+        "roomsAvailable": 20,
+        "amenities": [
+            "Harbor Views",
+            "Rooftop Pool",
+            "Fine Dining",
+            "Concierge Service",
+            "Fitness Center"
+        ],
+        "roomPictures": [
+            "https://images.unsplash.com/photo-1496417263034-38ec4f0b665a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=871&q=80",
+            "https://images.unsplash.com/photo-1631049035182-249067d7618e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80",
+            "https://images.unsplash.com/photo-1507038772120-7fff76f79d79?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=774&q=80"
+        ],
+        "reviews": [
+            {
+                "reviewText": "Stunning views of the harbor.",
+                "rating": 5
+            },
+            {
+                "reviewText": "Elegant dining experience.",
+                "rating": 5
+            },
+            {
+                "reviewText": "Limited room availability.",
+                "rating": 3
+            },
+            {
+                "reviewText": "Great fitness facilities.",
+                "rating": 4
+            },
+            {
+                "reviewText": "Concierge service is top-notch.",
+                "rating": 5
+            }
+        ],
+        "phoneNumber": "+911234567897"
+    },
+    {
+        "name": "Aqua Dreams Resort",
+        "address": "666 Lakeside Drive",
+        "city": "Chennai",
+        "state": "Tamil Nadu",
+        "country": "India",
+        "price": 180,
+        "roomsAvailable": 45,
+        "amenities": [
+            "Lakeside Views",
+            "Waterfront Dining",
+            "Water Activities",
+            "Spa",
+            "Barbecue"
+        ],
+        "roomPictures": [
+            "https://images.unsplash.com/photo-1496417263034-38ec4f0b665a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=871&q=80",
+            "https://images.unsplash.com/photo-1631049035182-249067d7618e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80",
+            "https://images.unsplash.com/photo-1507038772120-7fff76f79d79?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=774&q=80"
+        ],
+        "reviews": [
+            {
+                "reviewText": "Relaxing by the lakeside is a treat.",
+                "rating": 4
+            },
+            {
+                "reviewText": "Delicious waterfront dining.",
+                "rating": 4
+            },
+            {
+                "reviewText": "Limited water activities.",
+                "rating": 3
+            },
+            {
+                "reviewText": "Spa services were disappointing.",
+                "rating": 2
+            },
+            {
+                "reviewText": "Enjoyed the barbecue nights.",
+                "rating": 5
+            }
+        ],
+        "phoneNumber": "+911234567898"
+    },
+    {
+        "name": "Tropical Paradise Resort",
+        "address": "777 Palm Beach Road",
+        "city": "Chennai",
+        "state": "Tamil Nadu",
+        "country": "India",
+        "price": 260,
+        "roomsAvailable": 15,
+        "amenities": [
+            "Private Villas",
+            "Beachfront Dining",
+            "Water Sports",
+            "Infinity Pool",
+            "Yoga Retreat"
+        ],
+        "roomPictures": [
+            "https://images.unsplash.com/photo-1496417263034-38ec4f0b665a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=871&q=80",
+            "https://images.unsplash.com/photo-1631049035182-249067d7618e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80",
+            "https://images.unsplash.com/photo-1507038772120-7fff76f79d79?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=774&q=80"
+        ],
+        "reviews": [
+            {
+                "reviewText": "Luxury villas right by the beach.",
+                "rating": 5
+            },
+            {
+                "reviewText": "Scenic beachfront dining.",
+                "rating": 5
+            },
+            {
+                "reviewText": "Limited water sports activities.",
+                "rating": 3
+            },
+            {
+                "reviewText": "Fantastic infinity pool.",
+                "rating": 5
+            },
+            {
+                "reviewText": "Yoga retreat was rejuvenating.",
+                "rating": 4
+            }
+        ],
+        "phoneNumber": "+911234567899"
+    }
+]

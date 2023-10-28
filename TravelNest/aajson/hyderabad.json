@@ -1,0 +1,432 @@
+[
+    {
+        "name": "Luxury Haven Hotel",
+        "address": "123 Park Street",
+        "city": "Hyderabad",
+        "state": "Telangana",
+        "country": "India",
+        "price": 2500,
+        "roomsAvailable": 50,
+        "amenities": [
+            "Swimming Pool",
+            "Gym",
+            "Spa",
+            "Restaurant",
+            "Free Wi-Fi"
+        ],
+        "roomPictures": [
+            "https://plus.unsplash.com/premium_photo-1661843652801-66305e3c980c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=837&q=80",
+            "https://images.unsplash.com/photo-1595576508898-0ad5c879a061?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=774&q=80",
+            "https://images.unsplash.com/photo-1611892440504-42a792e24d32?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80"
+        ],
+        "reviews": [
+            {
+                "reviewText": "Exceptional service!",
+                "rating": 5
+            },
+            {
+                "reviewText": "Clean and comfortable rooms.",
+                "rating": 4
+            },
+            {
+                "reviewText": "Great location.",
+                "rating": 4
+            },
+            {
+                "reviewText": "Friendly staff.",
+                "rating": 5
+            },
+            {
+                "reviewText": "Noisy neighbors.",
+                "rating": 2
+            }
+        ]
+    },
+    {
+        "name": "Sunset View Inn",
+        "address": "456 Lake Road",
+        "city": "Hyderabad",
+        "state": "Telangana",
+        "country": "India",
+        "price": 1800,
+        "roomsAvailable": 30,
+        "amenities": [
+            "Free Breakfast",
+            "Parking",
+            "Bar",
+            "Fitness Center",
+            "Laundry Service"
+        ],
+        "roomPictures": [
+            "https://plus.unsplash.com/premium_photo-1661843652801-66305e3c980c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=837&q=80",
+            "https://images.unsplash.com/photo-1595576508898-0ad5c879a061?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=774&q=80",
+            "https://images.unsplash.com/photo-1611892440504-42a792e24d32?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80"
+        ],
+        "reviews": [
+            {
+                "reviewText": "Beautiful sunset views!",
+                "rating": 5
+            },
+            {
+                "reviewText": "Cozy atmosphere.",
+                "rating": 4
+            },
+            {
+                "reviewText": "Helpful staff.",
+                "rating": 4
+            },
+            {
+                "reviewText": "Average rooms.",
+                "rating": 3
+            },
+            {
+                "reviewText": "No complaints.",
+                "rating": 5
+            }
+        ]
+    },
+    {
+        "name": "Green Oasis Resort",
+        "address": "789 Garden Lane",
+        "city": "Hyderabad",
+        "state": "Telangana",
+        "country": "India",
+        "price": 3200,
+        "roomsAvailable": 40,
+        "amenities": [
+            "Swimming Pool",
+            "Spa",
+            "Restaurant",
+            "Free Wi-Fi",
+            "Gardens"
+        ],
+        "roomPictures": [
+            "https://plus.unsplash.com/premium_photo-1661843652801-66305e3c980c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=837&q=80",
+            "https://images.unsplash.com/photo-1595576508898-0ad5c879a061?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=774&q=80",
+            "https://images.unsplash.com/photo-1611892440504-42a792e24d32?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80"
+        ],
+        "reviews": [
+            {
+                "reviewText": "A peaceful getaway.",
+                "rating": 4
+            },
+            {
+                "reviewText": "Beautiful gardens.",
+                "rating": 5
+            },
+            {
+                "reviewText": "Delicious food.",
+                "rating": 5
+            },
+            {
+                "reviewText": "Spacious rooms.",
+                "rating": 4
+            },
+            {
+                "reviewText": "Loved the spa.",
+                "rating": 5
+            }
+        ]
+    },
+    {
+        "name": "Cityscape Suites",
+        "address": "101 Downtown Avenue",
+        "city": "Hyderabad",
+        "state": "Telangana",
+        "country": "India",
+        "price": 2000,
+        "roomsAvailable": 25,
+        "amenities": [
+            "Free Breakfast",
+            "Gym",
+            "Meeting Rooms",
+            "Rooftop Bar",
+            "Concierge"
+        ],
+        "roomPictures": [
+            "https://plus.unsplash.com/premium_photo-1661843652801-66305e3c980c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=837&q=80",
+            "https://images.unsplash.com/photo-1595576508898-0ad5c879a061?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=774&q=80",
+            "https://images.unsplash.com/photo-1611892440504-42a792e24d32?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80"
+        ],
+        "reviews": [
+            {
+                "reviewText": "Great city views.",
+                "rating": 4
+            },
+            {
+                "reviewText": "Friendly staff.",
+                "rating": 5
+            },
+            {
+                "reviewText": "Comfortable beds.",
+                "rating": 4
+            },
+            {
+                "reviewText": "Convenient location.",
+                "rating": 4
+            },
+            {
+                "reviewText": "Noisy neighbors.",
+                "rating": 2
+            }
+        ]
+    },
+    {
+        "name": "Riverside Retreat",
+        "address": "234 River Bank",
+        "city": "Hyderabad",
+        "state": "Telangana",
+        "country": "India",
+        "price": 2800,
+        "roomsAvailable": 35,
+        "amenities": [
+            "River View",
+            "Swimming Pool",
+            "Restaurant",
+            "Free Wi-Fi",
+            "Bicycle Rentals"
+        ],
+        "roomPictures": [
+            "https://plus.unsplash.com/premium_photo-1661843652801-66305e3c980c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=837&q=80",
+            "https://images.unsplash.com/photo-1595576508898-0ad5c879a061?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=774&q=80",
+            "https://images.unsplash.com/photo-1611892440504-42a792e24d32?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80"
+        ],
+        "reviews": [
+            {
+                "reviewText": "Peaceful by the river.",
+                "rating": 5
+            },
+            {
+                "reviewText": "Scenic views.",
+                "rating": 5
+            },
+            {
+                "reviewText": "Good food.",
+                "rating": 4
+            },
+            {
+                "reviewText": "Clean and spacious rooms.",
+                "rating": 4
+            },
+            {
+                "reviewText": "Slow Wi-Fi.",
+                "rating": 3
+            }
+        ]
+    },
+    {
+        "name": "Harbor View Hotel",
+        "address": "567 Harbour Drive",
+        "city": "Hyderabad",
+        "state": "Telangana",
+        "country": "India",
+        "price": 2200,
+        "roomsAvailable": 28,
+        "amenities": [
+            "Sea View",
+            "Free Breakfast",
+            "Fitness Center",
+            "Restaurant",
+            "Spa"
+        ],
+        "roomPictures": [
+            "https://plus.unsplash.com/premium_photo-1661843652801-66305e3c980c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=837&q=80",
+            "https://images.unsplash.com/photo-1595576508898-0ad5c879a061?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=774&q=80",
+            "https://images.unsplash.com/photo-1611892440504-42a792e24d32?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80"
+        ],
+        "reviews": [
+            {
+                "reviewText": "Stunning sea views!",
+                "rating": 5
+            },
+            {
+                "reviewText": "Nice breakfast.",
+                "rating": 4
+            },
+            {
+                "reviewText": "Friendly staff.",
+                "rating": 5
+            },
+            {
+                "reviewText": "Average rooms.",
+                "rating": 3
+            },
+            {
+                "reviewText": "Enjoyed the spa.",
+                "rating": 4
+            }
+        ]
+    },
+    {
+        "name": "Tranquil Lodge",
+        "address": "789 Forest Road",
+        "city": "Hyderabad",
+        "state": "Telangana",
+        "country": "India",
+        "price": 1700,
+        "roomsAvailable": 22,
+        "amenities": [
+            "Peaceful Setting",
+            "Free Wi-Fi",
+            "Hiking Trails",
+            "Library",
+            "Pet-Friendly"
+        ],
+        "roomPictures": [
+            "https://plus.unsplash.com/premium_photo-1661843652801-66305e3c980c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=837&q=80",
+            "https://images.unsplash.com/photo-1595576508898-0ad5c879a061?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=774&q=80",
+            "https://images.unsplash.com/photo-1611892440504-42a792e24d32?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80"
+        ],
+        "reviews": [
+            {
+                "reviewText": "Serene forest setting.",
+                "rating": 5
+            },
+            {
+                "reviewText": "Friendly for pets.",
+                "rating": 5
+            },
+            {
+                "reviewText": "Cozy library.",
+                "rating": 4
+            },
+            {
+                "reviewText": "Comfortable stay.",
+                "rating": 4
+            },
+            {
+                "reviewText": "No complaints.",
+                "rating": 5
+            }
+        ]
+    },
+    {
+        "name": "Golden Palace Resort",
+        "address": "456 Gold Street",
+        "city": "Hyderabad",
+        "state": "Telangana",
+        "country": "India",
+        "price": 3500,
+        "roomsAvailable": 42,
+        "amenities": [
+            "Swimming Pool",
+            "Spa",
+            "Fine Dining",
+            "Free Wi-Fi",
+            "Conference Rooms"
+        ],
+        "roomPictures": [
+            "https://plus.unsplash.com/premium_photo-1661843652801-66305e3c980c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=837&q=80",
+            "https://images.unsplash.com/photo-1595576508898-0ad5c879a061?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=774&q=80",
+            "https://images.unsplash.com/photo-1611892440504-42a792e24d32?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80"
+        ],
+        "reviews": [
+            {
+                "reviewText": "Luxurious stay.",
+                "rating": 5
+            },
+            {
+                "reviewText": "Exquisite dining.",
+                "rating": 5
+            },
+            {
+                "reviewText": "Helpful staff.",
+                "rating": 4
+            },
+            {
+                "reviewText": "Comfortable rooms.",
+                "rating": 4
+            },
+            {
+                "reviewText": "Excellent spa.",
+                "rating": 5
+            }
+        ]
+    },
+    {
+        "name": "Urban Escape Hotel",
+        "address": "789 Downtown Street",
+        "city": "Hyderabad",
+        "state": "Telangana",
+        "country": "India",
+        "price": 2100,
+        "roomsAvailable": 26,
+        "amenities": [
+            "City View",
+            "Fitness Center",
+            "Restaurant",
+            "Free Wi-Fi",
+            "Business Center"
+        ],
+        "roomPictures": [
+            "https://plus.unsplash.com/premium_photo-1661843652801-66305e3c980c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=837&q=80",
+            "https://images.unsplash.com/photo-1595576508898-0ad5c879a061?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=774&q=80",
+            "https://images.unsplash.com/photo-1611892440504-42a792e24d32?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80"
+        ],
+        "reviews": [
+            {
+                "reviewText": "Great city views.",
+                "rating": 4
+            },
+            {
+                "reviewText": "Convenient location.",
+                "rating": 4
+            },
+            {
+                "reviewText": "Friendly staff.",
+                "rating": 5
+            },
+            {
+                "reviewText": "Decent rooms.",
+                "rating": 3
+            },
+            {
+                "reviewText": "Business-friendly.",
+                "rating": 4
+            }
+        ]
+    },
+    {
+        "name": "Mountain Vista Lodge",
+        "address": "101 Hill Road",
+        "city": "Hyderabad",
+        "state": "Telangana",
+        "country": "India",
+        "price": 2900,
+        "roomsAvailable": 36,
+        "amenities": [
+            "Mountain View",
+            "Free Breakfast",
+            "Hiking Trails",
+            "Restaurant",
+            "Gym"
+        ],
+        "roomPictures": [
+            "https://plus.unsplash.com/premium_photo-1661843652801-66305e3c980c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=837&q=80",
+            "https://images.unsplash.com/photo-1595576508898-0ad5c879a061?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=774&q=80",
+            "https://images.unsplash.com/photo-1611892440504-42a792e24d32?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80"
+        ],
+        "reviews": [
+            {
+                "reviewText": "Spectacular mountain views!",
+                "rating": 5
+            },
+            {
+                "reviewText": "Good breakfast.",
+                "rating": 4
+            },
+            {
+                "reviewText": "Clean and cozy rooms.",
+                "rating": 4
+            },
+            {
+                "reviewText": "Helpful staff.",
+                "rating": 5
+            },
+            {
+                "reviewText": "Great for hiking.",
+                "rating": 5
+            }
+        ]
+    }
+]

@@ -1,0 +1,442 @@
+[
+    {
+        "name": "Royal Palace Hotel",
+        "address": "123 ABC Street",
+        "city": "Lucknow",
+        "state": "Uttar Pradesh",
+        "country": "India",
+        "price": 2500,
+        "roomsAvailable": 50,
+        "amenities": [
+            "Free Wi-Fi",
+            "Swimming Pool",
+            "Gym",
+            "Spa",
+            "Restaurant"
+        ],
+        "roomPictures": [
+            "https://plus.unsplash.com/premium_photo-1681487479203-464a22302b27?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80",
+            "https://images.unsplash.com/photo-1631049035182-249067d7618e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80",
+            "https://images.unsplash.com/photo-1566195992011-5f6b21e539aa?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=774&q=80"
+        ],
+        "reviews": [
+            {
+                "reviewText": "Excellent stay! Highly recommended.",
+                "rating": 5
+            },
+            {
+                "reviewText": "Great location and service.",
+                "rating": 4
+            },
+            {
+                "reviewText": "Average experience.",
+                "rating": 3
+            },
+            {
+                "reviewText": "Clean rooms, but noisy.",
+                "rating": 3
+            },
+            {
+                "reviewText": "Terrible service, avoid this hotel.",
+                "rating": 1
+            }
+        ],
+        "phoneNumber": "+919876543210"
+    },
+    {
+        "name": "Sunrise Inn",
+        "address": "456 XYZ Road",
+        "city": "Lucknow",
+        "state": "Uttar Pradesh",
+        "country": "India",
+        "price": 1800,
+        "roomsAvailable": 40,
+        "amenities": [
+            "Free Breakfast",
+            "Parking",
+            "24/7 Reception",
+            "Laundry",
+            "Bar"
+        ],
+        "roomPictures": [
+            "https://plus.unsplash.com/premium_photo-1681487479203-464a22302b27?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80",
+            "https://images.unsplash.com/photo-1631049035182-249067d7618e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80",
+            "https://images.unsplash.com/photo-1566195992011-5f6b21e539aa?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=774&q=80"
+        ],
+        "reviews": [
+            {
+                "reviewText": "Wonderful stay! Loved the breakfast.",
+                "rating": 5
+            },
+            {
+                "reviewText": "Clean and cozy rooms.",
+                "rating": 4
+            },
+            {
+                "reviewText": "Noisy neighbors ruined the experience.",
+                "rating": 3
+            },
+            {
+                "reviewText": "Average service.",
+                "rating": 3
+            },
+            {
+                "reviewText": "Good value for money.",
+                "rating": 4
+            }
+        ],
+        "phoneNumber": "+919876543211"
+    },
+    {
+        "name": "Garden View Resort",
+        "address": "789 PQR Avenue",
+        "city": "Lucknow",
+        "state": "Uttar Pradesh",
+        "country": "India",
+        "price": 3200,
+        "roomsAvailable": 30,
+        "amenities": [
+            "Swimming Pool",
+            "Garden",
+            "Restaurant",
+            "Conference Room",
+            "Fitness Center"
+        ],
+        "roomPictures": [
+            "https://plus.unsplash.com/premium_photo-1681487479203-464a22302b27?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80",
+            "https://images.unsplash.com/photo-1631049035182-249067d7618e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80",
+            "https://images.unsplash.com/photo-1566195992011-5f6b21e539aa?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=774&q=80"
+        ],
+        "reviews": [
+            {
+                "reviewText": "Beautiful gardens and excellent food.",
+                "rating": 5
+            },
+            {
+                "reviewText": "Relaxing atmosphere, great for a weekend getaway.",
+                "rating": 5
+            },
+            {
+                "reviewText": "Room cleanliness could be better.",
+                "rating": 3
+            },
+            {
+                "reviewText": "Friendly staff, but slow service.",
+                "rating": 4
+            },
+            {
+                "reviewText": "Good place for a family vacation.",
+                "rating": 4
+            }
+        ],
+        "phoneNumber": "+919876543212"
+    },
+    {
+        "name": "Grand Plaza Hotel",
+        "address": "101 Grand Avenue",
+        "city": "Lucknow",
+        "state": "Uttar Pradesh",
+        "country": "India",
+        "price": 2800,
+        "roomsAvailable": 55,
+        "amenities": [
+            "Free Wi-Fi",
+            "Restaurant",
+            "Bar",
+            "Business Center",
+            "Fitness Center"
+        ],
+        "roomPictures": [
+            "https://plus.unsplash.com/premium_photo-1681487479203-464a22302b27?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80",
+            "https://images.unsplash.com/photo-1631049035182-249067d7618e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80",
+            "https://images.unsplash.com/photo-1566195992011-5f6b21e539aa?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=774&q=80"
+        ],
+        "reviews": [
+            {
+                "reviewText": "Luxurious stay with great amenities.",
+                "rating": 5
+            },
+            {
+                "reviewText": "Excellent service and spacious rooms.",
+                "rating": 5
+            },
+            {
+                "reviewText": "No complaints. Highly recommended.",
+                "rating": 5
+            },
+            {
+                "reviewText": "Good value for the price.",
+                "rating": 4
+            },
+            {
+                "reviewText": "Average experience.",
+                "rating": 3
+            }
+        ],
+        "phoneNumber": "+919876543213"
+    },
+    {
+        "name": "Riverside Retreat",
+        "address": "222 Riverside Drive",
+        "city": "Lucknow",
+        "state": "Uttar Pradesh",
+        "country": "India",
+        "price": 3100,
+        "roomsAvailable": 25,
+        "amenities": [
+            "River View",
+            "Free Breakfast",
+            "Swimming Pool",
+            "Restaurant",
+            "Spa"
+        ],
+        "roomPictures": [
+            "https://plus.unsplash.com/premium_photo-1681487479203-464a22302b27?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80",
+            "https://images.unsplash.com/photo-1631049035182-249067d7618e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80",
+            "https://images.unsplash.com/photo-1566195992011-5f6b21e539aa?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=774&q=80"
+        ],
+        "reviews": [
+            {
+                "reviewText": "Amazing river view and great food.",
+                "rating": 5
+            },
+            {
+                "reviewText": "Peaceful and serene atmosphere.",
+                "rating": 5
+            },
+            {
+                "reviewText": "Room service could be faster.",
+                "rating": 3
+            },
+            {
+                "reviewText": "Not recommended for business travelers.",
+                "rating": 2
+            },
+            {
+                "reviewText": "Nice place to relax and unwind.",
+                "rating": 4
+            }
+        ],
+        "phoneNumber": "+919876543214"
+    },
+    {
+        "name": "City Lights Inn",
+        "address": "333 City Center",
+        "city": "Lucknow",
+        "state": "Uttar Pradesh",
+        "country": "India",
+        "price": 2200,
+        "roomsAvailable": 35,
+        "amenities": [
+            "Free Wi-Fi",
+            "Parking",
+            "24/7 Reception",
+            "Bar",
+            "Fitness Center"
+        ],
+        "roomPictures": [
+            "https://plus.unsplash.com/premium_photo-1681487479203-464a22302b27?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80",
+            "https://images.unsplash.com/photo-1631049035182-249067d7618e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80",
+            "https://images.unsplash.com/photo-1566195992011-5f6b21e539aa?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=774&q=80"
+        ],
+        "reviews": [
+            {
+                "reviewText": "Convenient location in the city center.",
+                "rating": 4
+            },
+            {
+                "reviewText": "Clean and comfortable rooms.",
+                "rating": 4
+            },
+            {
+                "reviewText": "Average breakfast, could be improved.",
+                "rating": 3
+            },
+            {
+                "reviewText": "Friendly staff, good service.",
+                "rating": 4
+            },
+            {
+                "reviewText": "Value for money.",
+                "rating": 4
+            }
+        ],
+        "phoneNumber": "+919876543215"
+    },
+    {
+        "name": "Lakeview Lodge",
+        "address": "444 Lakeside Road",
+        "city": "Lucknow",
+        "state": "Uttar Pradesh",
+        "country": "India",
+        "price": 2900,
+        "roomsAvailable": 20,
+        "amenities": [
+            "Lake View",
+            "Free Breakfast",
+            "Restaurant",
+            "Boating",
+            "Conference Room"
+        ],
+        "roomPictures": [
+            "https://plus.unsplash.com/premium_photo-1681487479203-464a22302b27?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80",
+            "https://images.unsplash.com/photo-1631049035182-249067d7618e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80",
+            "https://images.unsplash.com/photo-1566195992011-5f6b21e539aa?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=774&q=80"
+        ],
+        "reviews": [
+            {
+                "reviewText": "Scenic lake view and peaceful surroundings.",
+                "rating": 5
+            },
+            {
+                "reviewText": "Enjoyed the boating experience.",
+                "rating": 4
+            },
+            {
+                "reviewText": "Average room cleanliness.",
+                "rating": 3
+            },
+            {
+                "reviewText": "Attentive staff, good service.",
+                "rating": 4
+            },
+            {
+                "reviewText": "A nice escape from the city.",
+                "rating": 4
+            }
+        ],
+        "phoneNumber": "+919876543216"
+    },
+    {
+        "name": "Hillside Haven",
+        "address": "555 Hilltop Drive",
+        "city": "Lucknow",
+        "state": "Uttar Pradesh",
+        "country": "India",
+        "price": 3400,
+        "roomsAvailable": 15,
+        "amenities": [
+            "Mountain View",
+            "Free Wi-Fi",
+            "Restaurant",
+            "Hiking",
+            "Spa"
+        ],
+        "roomPictures": [
+            "https://plus.unsplash.com/premium_photo-1681487479203-464a22302b27?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80",
+            "https://images.unsplash.com/photo-1631049035182-249067d7618e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80",
+            "https://images.unsplash.com/photo-1566195992011-5f6b21e539aa?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=774&q=80"
+        ],
+        "reviews": [
+            {
+                "reviewText": "Spectacular mountain views and great food.",
+                "rating": 5
+            },
+            {
+                "reviewText": "Perfect for nature lovers and hikers.",
+                "rating": 5
+            },
+            {
+                "reviewText": "Room service could be faster.",
+                "rating": 3
+            },
+            {
+                "reviewText": "Good place to escape city life.",
+                "rating": 4
+            },
+            {
+                "reviewText": "Peaceful and rejuvenating.",
+                "rating": 5
+            }
+        ],
+        "phoneNumber": "+919876543217"
+    },
+    {
+        "name": "Golden Sands Resort",
+        "address": "666 Seaside Avenue",
+        "city": "Lucknow",
+        "state": "Uttar Pradesh",
+        "country": "India",
+        "price": 3800,
+        "roomsAvailable": 18,
+        "amenities": [
+            "Beach View",
+            "Free Breakfast",
+            "Swimming Pool",
+            "Water Sports",
+            "Bar"
+        ],
+        "roomPictures": [
+            "https://plus.unsplash.com/premium_photo-1681487479203-464a22302b27?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80",
+            "https://images.unsplash.com/photo-1631049035182-249067d7618e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80",
+            "https://images.unsplash.com/photo-1566195992011-5f6b21e539aa?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=774&q=80"
+        ],
+        "reviews": [
+            {
+                "reviewText": "Beautiful beach view and water sports.",
+                "rating": 5
+            },
+            {
+                "reviewText": "Enjoyed the beach activities.",
+                "rating": 4
+            },
+            {
+                "reviewText": "Room cleanliness could be improved.",
+                "rating": 3
+            },
+            {
+                "reviewText": "Friendly staff, good service.",
+                "rating": 4
+            },
+            {
+                "reviewText": "Great place for a beach vacation.",
+                "rating": 4
+            }
+        ],
+        "phoneNumber": "+919876543218"
+    },
+    {
+        "name": "Tranquil Oasis",
+        "address": "777 Oasis Road",
+        "city": "Lucknow",
+        "state": "Uttar Pradesh",
+        "country": "India",
+        "price": 2700,
+        "roomsAvailable": 22,
+        "amenities": [
+            "Garden View",
+            "Free Wi-Fi",
+            "Restaurant",
+            "Spa",
+            "Yoga Classes"
+        ],
+        "roomPictures": [
+            "https://plus.unsplash.com/premium_photo-1681487479203-464a22302b27?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80",
+            "https://images.unsplash.com/photo-1631049035182-249067d7618e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80",
+            "https://images.unsplash.com/photo-1566195992011-5f6b21e539aa?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=774&q=80"
+        ],
+        "reviews": [
+            {
+                "reviewText": "Peaceful oasis with lush gardens.",
+                "rating": 5
+            },
+            {
+                "reviewText": "Relaxing spa and yoga classes.",
+                "rating": 5
+            },
+            {
+                "reviewText": "Room service could be faster.",
+                "rating": 3
+            },
+            {
+                "reviewText": "Good place to unwind and meditate.",
+                "rating": 4
+            },
+            {
+                "reviewText": "Friendly staff.",
+                "rating": 4
+            }
+        ],
+        "phoneNumber": "+919876543219"
+    }
+]

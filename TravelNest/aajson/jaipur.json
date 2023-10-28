@@ -1,0 +1,432 @@
+[
+    {
+        "name": "Royal Palace Hotel",
+        "address": "123 Main Street",
+        "city": "Jaipur",
+        "state": "Rajasthan",
+        "country": "India",
+        "price": 120,
+        "roomsAvailable": 50,
+        "amenities": [
+            "Swimming Pool",
+            "Free Wi-Fi",
+            "Restaurant",
+            "Gym",
+            "Spa"
+        ],
+        "roomPictures": [
+            "https://images.unsplash.com/photo-1602002418082-a4443e081dd1?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=774&q=80",
+            "https://plus.unsplash.com/premium_photo-1681487479203-464a22302b27?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80",
+            "https://images.unsplash.com/photo-1611892440504-42a792e24d32?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80"
+        ],
+        "reviews": [
+            {
+                "reviewText": "Amazing stay! Highly recommended.",
+                "rating": 5
+            },
+            {
+                "reviewText": "Not bad, but could be better.",
+                "rating": 3
+            },
+            {
+                "reviewText": "Great value for money.",
+                "rating": 4
+            },
+            {
+                "reviewText": "Terrible service, dirty rooms.",
+                "rating": 1
+            },
+            {
+                "reviewText": "Excellent staff and facilities.",
+                "rating": 5
+            }
+        ]
+    },
+    {
+        "name": "Sunset View Resort",
+        "address": "456 Park Avenue",
+        "city": "Jaipur",
+        "state": "Rajasthan",
+        "country": "India",
+        "price": 95,
+        "roomsAvailable": 30,
+        "amenities": [
+            "Free Breakfast",
+            "Poolside Bar",
+            "Tennis Court",
+            "Fitness Center",
+            "Conference Rooms"
+        ],
+        "roomPictures": [
+            "https://images.unsplash.com/photo-1602002418082-a4443e081dd1?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=774&q=80",
+            "https://plus.unsplash.com/premium_photo-1681487479203-464a22302b27?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80",
+            "https://images.unsplash.com/photo-1611892440504-42a792e24d32?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80"
+        ],
+        "reviews": [
+            {
+                "reviewText": "Perfect getaway spot!",
+                "rating": 5
+            },
+            {
+                "reviewText": "Lovely ambiance, friendly staff.",
+                "rating": 4
+            },
+            {
+                "reviewText": "Not worth the price.",
+                "rating": 2
+            },
+            {
+                "reviewText": "Scenic views, but rooms need improvement.",
+                "rating": 3
+            },
+            {
+                "reviewText": "Excellent service, beautiful location.",
+                "rating": 5
+            }
+        ]
+    },
+    {
+        "name": "Golden Sands Hotel",
+        "address": "789 Beach Road",
+        "city": "Jaipur",
+        "state": "Rajasthan",
+        "country": "India",
+        "price": 150,
+        "roomsAvailable": 40,
+        "amenities": [
+            "Private Beach",
+            "Beachfront Dining",
+            "Spa",
+            "Water Sports",
+            "Library"
+        ],
+        "roomPictures": [
+            "https://images.unsplash.com/photo-1602002418082-a4443e081dd1?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=774&q=80",
+            "https://plus.unsplash.com/premium_photo-1681487479203-464a22302b27?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80",
+            "https://images.unsplash.com/photo-1611892440504-42a792e24d32?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80"
+        ],
+        "reviews": [
+            {
+                "reviewText": "Paradise on Earth!",
+                "rating": 5
+            },
+            {
+                "reviewText": "Overpriced for what it offers.",
+                "rating": 2
+            },
+            {
+                "reviewText": "Great beachside experience.",
+                "rating": 4
+            },
+            {
+                "reviewText": "Needs better maintenance.",
+                "rating": 3
+            },
+            {
+                "reviewText": "Unforgettable vacation.",
+                "rating": 5
+            }
+        ]
+    },
+    {
+        "name": "Luxury Heights Inn",
+        "address": "101 Skyline Avenue",
+        "city": "Jaipur",
+        "state": "Rajasthan",
+        "country": "India",
+        "price": 180,
+        "roomsAvailable": 20,
+        "amenities": [
+            "Rooftop Bar",
+            "Fine Dining",
+            "Concierge Service",
+            "Sauna",
+            "Business Center"
+        ],
+        "roomPictures": [
+            "https://images.unsplash.com/photo-1602002418082-a4443e081dd1?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=774&q=80",
+            "https://plus.unsplash.com/premium_photo-1681487479203-464a22302b27?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80",
+            "https://images.unsplash.com/photo-1611892440504-42a792e24d32?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80"
+        ],
+        "reviews": [
+            {
+                "reviewText": "Top-notch luxury experience!",
+                "rating": 5
+            },
+            {
+                "reviewText": "Worth every penny.",
+                "rating": 5
+            },
+            {
+                "reviewText": "Excellent staff and services.",
+                "rating": 5
+            },
+            {
+                "reviewText": "Could use more variety in dining.",
+                "rating": 4
+            },
+            {
+                "reviewText": "Will definitely return.",
+                "rating": 5
+            }
+        ]
+    },
+    {
+        "name": "Serenity Gardens Resort",
+        "address": "234 Peaceful Lane",
+        "city": "Jaipur",
+        "state": "Rajasthan",
+        "country": "India",
+        "price": 110,
+        "roomsAvailable": 25,
+        "amenities": [
+            "Botanical Gardens",
+            "Yoga Classes",
+            "Outdoor Pool",
+            "Nature Walks",
+            "Cafeteria"
+        ],
+        "roomPictures": [
+            "https://images.unsplash.com/photo-1602002418082-a4443e081dd1?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=774&q=80",
+            "https://plus.unsplash.com/premium_photo-1681487479203-464a22302b27?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80",
+            "https://images.unsplash.com/photo-1611892440504-42a792e24d32?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80"
+        ],
+        "reviews": [
+            {
+                "reviewText": "A peaceful retreat.",
+                "rating": 4
+            },
+            {
+                "reviewText": "Beautiful gardens and surroundings.",
+                "rating": 5
+            },
+            {
+                "reviewText": "Average service, but lovely environment.",
+                "rating": 3
+            },
+            {
+                "reviewText": "Relaxing and rejuvenating.",
+                "rating": 4
+            },
+            {
+                "reviewText": "Could improve on dining options.",
+                "rating": 3
+            }
+        ]
+    },
+    {
+        "name": "Mystic Oasis Hotel",
+        "address": "567 Oasis Road",
+        "city": "Jaipur",
+        "state": "Rajasthan",
+        "country": "India",
+        "price": 130,
+        "roomsAvailable": 35,
+        "amenities": [
+            "Desert Safaris",
+            "Star Gazing",
+            "Camel Rides",
+            "Cultural Shows",
+            "Lounge Bar"
+        ],
+        "roomPictures": [
+            "https://images.unsplash.com/photo-1602002418082-a4443e081dd1?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=774&q=80",
+            "https://plus.unsplash.com/premium_photo-1681487479203-464a22302b27?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80",
+            "https://images.unsplash.com/photo-1611892440504-42a792e24d32?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80"
+        ],
+        "reviews": [
+            {
+                "reviewText": "Unique desert experience!",
+                "rating": 5
+            },
+            {
+                "reviewText": "Fantastic cultural shows.",
+                "rating": 5
+            },
+            {
+                "reviewText": "Rooms need better insulation.",
+                "rating": 3
+            },
+            {
+                "reviewText": "Friendly staff, great adventures.",
+                "rating": 4
+            },
+            {
+                "reviewText": "Memorable desert stay.",
+                "rating": 5
+            }
+        ]
+    },
+    {
+        "name": "Tranquil Retreat Lodge",
+        "address": "345 Zen Lane",
+        "city": "Jaipur",
+        "state": "Rajasthan",
+        "country": "India",
+        "price": 100,
+        "roomsAvailable": 15,
+        "amenities": [
+            "Meditation Classes",
+            "Nature Walks",
+            "Library",
+            "Outdoor Jacuzzi",
+            "Organic Dining"
+        ],
+        "roomPictures": [
+            "https://images.unsplash.com/photo-1602002418082-a4443e081dd1?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=774&q=80",
+            "https://plus.unsplash.com/premium_photo-1681487479203-464a22302b27?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80",
+            "https://images.unsplash.com/photo-1611892440504-42a792e24d32?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80"
+        ],
+        "reviews": [
+            {
+                "reviewText": "A peaceful getaway.",
+                "rating": 4
+            },
+            {
+                "reviewText": "Great for meditation and relaxation.",
+                "rating": 5
+            },
+            {
+                "reviewText": "Limited room options.",
+                "rating": 3
+            },
+            {
+                "reviewText": "Delicious organic food.",
+                "rating": 5
+            },
+            {
+                "reviewText": "Will visit again for sure.",
+                "rating": 4
+            }
+        ]
+    },
+    {
+        "name": "Rajput Heritage Inn",
+        "address": "789 Heritage Lane",
+        "city": "Jaipur",
+        "state": "Rajasthan",
+        "country": "India",
+        "price": 140,
+        "roomsAvailable": 18,
+        "amenities": [
+            "Rajasthani Cuisine",
+            "Cultural Shows",
+            "Rooftop Dining",
+            "Ayurvedic Spa",
+            "Historical Tours"
+        ],
+        "roomPictures": [
+            "https://images.unsplash.com/photo-1602002418082-a4443e081dd1?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=774&q=80",
+            "https://plus.unsplash.com/premium_photo-1681487479203-464a22302b27?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80",
+            "https://images.unsplash.com/photo-1611892440504-42a792e24d32?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80"
+        ],
+        "reviews": [
+            {
+                "reviewText": "A glimpse of Rajasthani culture.",
+                "rating": 4
+            },
+            {
+                "reviewText": "Delicious Rajasthani cuisine.",
+                "rating": 5
+            },
+            {
+                "reviewText": "Historical tours were informative.",
+                "rating": 4
+            },
+            {
+                "reviewText": "Rooms could be more spacious.",
+                "rating": 3
+            },
+            {
+                "reviewText": "Overall a great experience.",
+                "rating": 4
+            }
+        ]
+    },
+    {
+        "name": "Garden Paradise Resort",
+        "address": "456 Garden Road",
+        "city": "Jaipur",
+        "state": "Rajasthan",
+        "country": "India",
+        "price": 125,
+        "roomsAvailable": 28,
+        "amenities": [
+            "Lush Gardens",
+            "Outdoor Pool",
+            "Jogging Track",
+            "Spa",
+            "Kids Play Area"
+        ],
+        "roomPictures": [
+            "https://images.unsplash.com/photo-1602002418082-a4443e081dd1?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=774&q=80",
+            "https://plus.unsplash.com/premium_photo-1681487479203-464a22302b27?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80",
+            "https://images.unsplash.com/photo-1611892440504-42a792e24d32?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80"
+        ],
+        "reviews": [
+            {
+                "reviewText": "Beautiful gardens and facilities.",
+                "rating": 5
+            },
+            {
+                "reviewText": "Great for family vacations.",
+                "rating": 5
+            },
+            {
+                "reviewText": "Rooms could be cleaner.",
+                "rating": 3
+            },
+            {
+                "reviewText": "Relaxing atmosphere.",
+                "rating": 4
+            },
+            {
+                "reviewText": "Perfect for nature lovers.",
+                "rating": 5
+            }
+        ]
+    },
+    {
+        "name": "City View Suites",
+        "address": "101 Skyline Avenue",
+        "city": "Jaipur",
+        "state": "Rajasthan",
+        "country": "India",
+        "price": 155,
+        "roomsAvailable": 22,
+        "amenities": [
+            "City View",
+            "Rooftop Bar",
+            "Fine Dining",
+            "Fitness Center",
+            "Meeting Rooms"
+        ],
+        "roomPictures": [
+            "https://images.unsplash.com/photo-1602002418082-a4443e081dd1?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=774&q=80",
+            "https://plus.unsplash.com/premium_photo-1681487479203-464a22302b27?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80",
+            "https://images.unsplash.com/photo-1611892440504-42a792e24d32?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80"
+        ],
+        "reviews": [
+            {
+                "reviewText": "Spectacular city views!",
+                "rating": 5
+            },
+            {
+                "reviewText": "Excellent rooftop bar.",
+                "rating": 5
+            },
+            {
+                "reviewText": "Comfortable rooms.",
+                "rating": 4
+            },
+            {
+                "reviewText": "Great for business travelers.",
+                "rating": 4
+            },
+            {
+                "reviewText": "Highly recommended.",
+                "rating": 5
+            }
+        ]
+    }
+]

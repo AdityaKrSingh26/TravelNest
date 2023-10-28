@@ -1,0 +1,355 @@
+/* POPPINS FONT */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+
+button {
+    transition: transform 0.2s ease-in-out;
+}
+
+button:hover {
+    transform: scale(1.1);
+    cursor: pointer;
+}
+
+
+
+/* ==========================================
+** Nav **
+========================================== */
+
+header {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    min-width: 100%;
+    margin: 0px 0px 50px;
+
+}
+
+.nav {
+    margin: 20px 0px 0px;
+    position: relative;
+    /* z-index: 999; */
+    width: 85vw;
+    padding: 0px 40px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: top;
+    justify-content: space-between;
+    background-color: rgba(255, 255, 255, 0.421);
+    backdrop-filter: blur(20px);
+    box-shadow: 1px 1px 40px 1px #00000052;
+    border-radius: 30px;
+}
+
+.logo_name {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.logo_name img {
+    height: 60px;
+}
+
+.navbar {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+
+#login {
+    margin: 20px;
+    height: 40px;
+    width: 100px;
+    border: none;
+    border-radius: 10px;
+    font-weight: 600;
+    background-color: #E51D27;
+    color: #def2ff;
+}
+
+
+
+
+
+
+
+
+
+/* ==========================================
+** Slideshow container **
+========================================== */
+.slideshow-container {
+    margin: 40px auto 0px;
+    max-width: 1000px;
+    position: relative;
+}
+
+/* Hide the images by default */
+.mySlides {
+    /* border-radius: 10px; */
+    overflow: hidden;
+    display: none;
+}
+
+/* Next & previous buttons */
+.prev,
+.next {
+    cursor: pointer;
+    position: absolute;
+    top: 50%;
+    width: auto;
+    margin-top: -22px;
+    padding: 16px;
+    color: white;
+    font-weight: bold;
+    font-size: 18px;
+    transition: 0.6s ease;
+    border-radius: 0 3px 3px 0;
+    background-color: rgba(0, 0, 0, 0.8);
+    user-select: none;
+}
+
+/* Position the "next button" to the right */
+.next {
+    right: 0;
+    border-radius: 3px 0 0 3px;
+}
+
+/* On hover, add a black background color with a little bit see-through */
+.prev:hover,
+.next:hover {
+    transform: scale(1.1);
+}
+
+/* Caption text */
+.text {
+    color: #f2f2f2;
+    font-size: 15px;
+    padding: 8px 12px;
+    position: absolute;
+    bottom: 8px;
+    width: 100%;
+    text-align: center;
+}
+
+/* Number text (1/3 etc) */
+.numbertext {
+    color: #f2f2f2;
+    font-size: 12px;
+    padding: 8px 12px;
+    position: absolute;
+    top: 0;
+}
+
+/* The dots/bullets/indicators */
+.dot {
+    cursor: pointer;
+    height: 15px;
+    width: 15px;
+    margin: 0 2px;
+    background-color: #bbb;
+    border-radius: 50%;
+    display: inline-block;
+    transition: background-color 0.6s ease;
+}
+
+.active,
+.dot:hover {
+    background-color: #717171;
+}
+
+/* Fading animation */
+.fade {
+    animation-name: fade;
+    animation-duration: 1.5s;
+}
+
+@keyframes fade {
+    from {
+        opacity: .4
+    }
+
+    to {
+        opacity: 1
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+.details-booking {
+    padding: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 50px;
+    align-items: center;
+    justify-content: space-around;
+
+}
+
+
+
+.hotel_name,
+.price {
+    padding-left: 30px;
+}
+
+.rating,
+.location {
+    padding: 3px;
+    gap: 10px;
+    display: flex;
+    align-items: center;
+}
+
+.rating img,
+.location img {
+    width: 20px;
+}
+
+.amenitie,
+.rooms_available {
+    padding-left: 30px;
+}
+
+
+
+
+
+.booking-details {
+    /* border: 1px solid black; */
+    border-radius: 10px;
+    height: 300px;
+    width: 300px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 30px;
+    flex-direction: column;
+    background-color: #def2ff;
+    /* border-radius: 20px; */
+    box-shadow: 1px 1px 40px 1px #00000052
+}
+
+.book-form {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.cnt-btn button {
+    height: 40px;
+    width: 100px;
+    border: none;
+    border-radius: 10px;
+    font-weight: 600;
+    background-color: #E51D27;
+    color: #def2ff;
+}
+
+
+
+
+
+
+
+
+
+/* ==========================================
+** Footer **
+========================================== */
+
+.footer {
+    margin-top: 20px;
+    min-height: 500px;
+    background-color: #181818;
+    color: whitesmoke;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.logo_name_icons {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.logo,
+.info,
+.contact_us {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.logo img {
+    height: 200px;
+}
+
+.logo h1 {
+    text-align: center;
+    font-size: 50px;
+}
+
+.icons img {
+    padding: 20px 20px;
+    height: 80px;
+}
+
+.icons a {
+    text-decoration: none;
+}
+
+.contact_us input,
+.contact_us button {
+    margin: 10px;
+}
+
+.contact_us input {
+    width: 300px;
+    height: 40px;
+    text-align: center;
+    border-radius: 10px;
+    border: none;
+}
+
+.submit_btn {
+    height: 40px;
+    width: 100px;
+    border: none;
+    border-radius: 10px;
+    font-weight: 600;
+    background-color: #00B1FF;
+}
+
+.info_text {
+    max-width: 300px;
+    font-size: x-small;
+    text-align: center;
+    padding: 20px 0px;
+}

@@ -1,0 +1,398 @@
+[
+    {
+        "name": "Luxury Palace Hotel",
+        "address": "123 Main Street",
+        "city": "Delhi",
+        "state": "Delhi",
+        "country": "India",
+        "price": 200,
+        "roomsAvailable": 100,
+        "amenities": [
+            "Free Wi-Fi",
+            "Swimming Pool",
+            "Restaurant",
+            "Gym",
+            "Spa"
+        ],
+        "reviews": [
+            {
+                "reviewText": "Excellent stay, wonderful staff!",
+                "rating": 5
+            },
+            {
+                "reviewText": "Great location, but noisy rooms.",
+                "rating": 3
+            },
+            {
+                "reviewText": "The best hotel experience ever!",
+                "rating": 5
+            },
+            {
+                "reviewText": "Clean rooms and friendly service.",
+                "rating": 4
+            },
+            {
+                "reviewText": "Terrible stay, rude staff.",
+                "rating": 1
+            }
+        ],
+        "phone": "+911234567890",
+        "roomPictures": [
+            "https://plus.unsplash.com/premium_photo-1661884238187-1c274b3c3413?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1032&q=80",
+            "https://images.unsplash.com/photo-1496417263034-38ec4f0b665a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=871&q=80",
+            "https://images.unsplash.com/photo-1602002418082-a4443e081dd1?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=774&q=80"
+        ]
+    },
+    {
+        "name": "Grandview Inn",
+        "address": "456 Park Avenue",
+        "city": "Delhi",
+        "state": "Delhi",
+        "country": "India",
+        "price": 150,
+        "roomsAvailable": 75,
+        "amenities": [
+            "Free Breakfast",
+            "Fitness Center",
+            "Conference Rooms",
+            "Bar",
+            "Laundry"
+        ],
+        "reviews": [
+            {
+                "reviewText": "Lovely hotel with a great view!",
+                "rating": 4
+            },
+            {
+                "reviewText": "Comfortable beds and clean bathrooms.",
+                "rating": 4
+            },
+            {
+                "reviewText": "Average stay, nothing special.",
+                "rating": 3
+            },
+            {
+                "reviewText": "Excellent service, would visit again.",
+                "rating": 5
+            },
+            {
+                "reviewText": "Noisy surroundings, couldn't sleep.",
+                "rating": 2
+            }
+        ],
+        "phone": "+919876543210",
+        "roomPictures": [
+            "https://plus.unsplash.com/premium_photo-1661884238187-1c274b3c3413?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1032&q=80",
+            "https://images.unsplash.com/photo-1496417263034-38ec4f0b665a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=871&q=80",
+            "https://images.unsplash.com/photo-1602002418082-a4443e081dd1?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=774&q=80"
+        ]
+    },
+    {
+        "name": "Sunrise Resort",
+        "address": "789 Beach Road",
+        "city": "Delhi",
+        "state": "Delhi",
+        "country": "India",
+        "price": 250,
+        "roomsAvailable": 50,
+        "amenities": [
+            "Private Beach",
+            "Tennis Courts",
+            "Spa",
+            "Restaurant",
+            "Room Service"
+        ],
+        "reviews": [
+            {
+                "reviewText": "A fantastic beachfront getaway!",
+                "rating": 5
+            },
+            {
+                "reviewText": "Overpriced for what it offers.",
+                "rating": 2
+            },
+            {
+                "reviewText": "Average experience, not worth the cost.",
+                "rating": 3
+            },
+            {
+                "reviewText": "Beautiful sunrise views from the room.",
+                "rating": 4
+            },
+            {
+                "reviewText": "Friendly staff, but limited food options.",
+                "rating": 3
+            }
+        ],
+        "phone": "+919999888877",
+        "roomPictures": [
+            "https://plus.unsplash.com/premium_photo-1661884238187-1c274b3c3413?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1032&q=80",
+            "https://images.unsplash.com/photo-1496417263034-38ec4f0b665a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=871&q=80",
+            "https://images.unsplash.com/photo-1602002418082-a4443e081dd1?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=774&q=80"
+        ]
+    },
+    {
+        "name": "Green Valley Lodge",
+        "address": "101 Forest Lane",
+        "city": "Delhi",
+        "state": "Delhi",
+        "country": "India",
+        "price": 100,
+        "roomsAvailable": 120,
+        "amenities": [
+            "Garden",
+            "Cafeteria",
+            "Library",
+            "Shuttle Service",
+            "Playground"
+        ],
+        "reviews": [
+            {
+                "reviewText": "A peaceful retreat in the heart of the city.",
+                "rating": 4
+            },
+            {
+                "reviewText": "Budget-friendly and cozy.",
+                "rating": 3
+            },
+            {
+                "reviewText": "Clean and tidy rooms, but slow Wi-Fi.",
+                "rating": 3
+            },
+            {
+                "reviewText": "Excellent staff, always ready to help.",
+                "rating": 5
+            },
+            {
+                "reviewText": "Noisy neighbors, couldn't sleep well.",
+                "rating": 2
+            }
+        ],
+        "phone": "+919111222233",
+        "roomPictures": [
+            "https://plus.unsplash.com/premium_photo-1661884238187-1c274b3c3413?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1032&q=80",
+            "https://images.unsplash.com/photo-1496417263034-38ec4f0b665a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=871&q=80",
+            "https://images.unsplash.com/photo-1602002418082-a4443e081dd1?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=774&q=80"
+        ]
+    },
+    {
+        "name": "Golden Tower Hotel",
+        "address": "555 Business Avenue",
+        "city": "Delhi",
+        "state": "Delhi",
+        "country": "India",
+        "price": 180,
+        "roomsAvailable": 90,
+        "amenities": [
+            "Business Center",
+            "Concierge Service",
+            "Fitness Room",
+            "Bar",
+            "Room Service"
+        ],
+        "reviews": [
+            {
+                "reviewText": "Perfect for business travelers!",
+                "rating": 5
+            },
+            {
+                "reviewText": "Great value for money, comfortable stay.",
+                "rating": 4
+            },
+            {
+                "reviewText": "Friendly staff, convenient location.",
+                "rating": 4
+            },
+            {
+                "reviewText": "Room cleanliness needs improvement.",
+                "rating": 3
+            },
+            {
+                "reviewText": "No complaints, enjoyable stay.",
+                "rating": 5
+            }
+        ],
+        "phone": "+919876543210",
+        "roomPictures": [
+            "https://plus.unsplash.com/premium_photo-1661884238187-1c274b3c3413?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1032&q=80",
+            "https://images.unsplash.com/photo-1496417263034-38ec4f0b665a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=871&q=80",
+            "https://images.unsplash.com/photo-1602002418082-a4443e081dd1?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=774&q=80"
+        ]
+    },
+    {
+        "name": "Harmony Suites",
+        "address": "222 Serene Street",
+        "city": "Delhi",
+        "state": "Delhi",
+        "country": "India",
+        "price": 130,
+        "roomsAvailable": 80,
+        "amenities": [
+            "Pool",
+            "Restaurant",
+            "Free Wi-Fi",
+            "Spa",
+            "Gym"
+        ],
+        "reviews": [
+            {
+                "reviewText": "Peaceful and relaxing atmosphere.",
+                "rating": 4
+            },
+            {
+                "reviewText": "Average stay, nothing extraordinary.",
+                "rating": 3
+            },
+            {
+                "reviewText": "Great food at the on-site restaurant.",
+                "rating": 4
+            },
+            {
+                "reviewText": "Comfortable beds, but noisy neighbors.",
+                "rating": 3
+            },
+            {
+                "reviewText": "Friendly staff, but slow service.",
+                "rating": 3
+            }
+        ],
+        "phone": "+919999888877",
+        "roomPictures": [
+            "https://plus.unsplash.com/premium_photo-1661884238187-1c274b3c3413?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1032&q=80",
+            "https://images.unsplash.com/photo-1496417263034-38ec4f0b665a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=871&q=80",
+            "https://images.unsplash.com/photo-1602002418082-a4443e081dd1?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=774&q=80"
+        ]
+    },
+    {
+        "name": "Skyline View Hotel",
+        "address": "777 Skyway Avenue",
+        "city": "Delhi",
+        "state": "Delhi",
+        "country": "India",
+        "price": 220,
+        "roomsAvailable": 60,
+        "amenities": [
+            "City View",
+            "Conference Rooms",
+            "Restaurant",
+            "Bar",
+            "Valet Parking"
+        ],
+        "reviews": [
+            {
+                "reviewText": "Breathtaking city view from the room!",
+                "rating": 5
+            },
+            {
+                "reviewText": "Good location, but noisy surroundings.",
+                "rating": 3
+            },
+            {
+                "reviewText": "Helpful staff, comfortable stay.",
+                "rating": 4
+            },
+            {
+                "reviewText": "Overpriced for what it offers.",
+                "rating": 2
+            },
+            {
+                "reviewText": "Average experience, not worth the cost.",
+                "rating": 3
+            }
+        ],
+        "phone": "+919111222233",
+        "roomPictures": [
+            "https://plus.unsplash.com/premium_photo-1661884238187-1c274b3c3413?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1032&q=80",
+            "https://images.unsplash.com/photo-1496417263034-38ec4f0b665a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=871&q=80",
+            "https://images.unsplash.com/photo-1602002418082-a4443e081dd1?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=774&q=80"
+        ]
+    },
+    {
+        "name": "Tranquil Gardens Resort",
+        "address": "987 Nature Trail",
+        "city": "Delhi",
+        "state": "Delhi",
+        "country": "India",
+        "price": 280,
+        "roomsAvailable": 40,
+        "amenities": [
+            "Nature Trails",
+            "Pool",
+            "Restaurant",
+            "Spa",
+            "Golf Course"
+        ],
+        "reviews": [
+            {
+                "reviewText": "A nature lover's paradise!",
+                "rating": 5
+            },
+            {
+                "reviewText": "Expensive, but worth every penny.",
+                "rating": 4
+            },
+            {
+                "reviewText": "Friendly staff, beautiful surroundings.",
+                "rating": 4
+            },
+            {
+                "reviewText": "Clean and comfortable rooms.",
+                "rating": 5
+            },
+            {
+                "reviewText": "Limited dining options, but great food.",
+                "rating": 4
+            }
+        ],
+        "phone": "+911234567890",
+        "roomPictures": [
+            "https://plus.unsplash.com/premium_photo-1661884238187-1c274b3c3413?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1032&q=80",
+            "https://images.unsplash.com/photo-1496417263034-38ec4f0b665a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=871&q=80",
+            "https://images.unsplash.com/photo-1602002418082-a4443e081dd1?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=774&q=80"
+        ]
+    },
+    {
+        "name": "Riverside Retreat",
+        "address": "333 Riverbank Road",
+        "city": "Delhi",
+        "state": "Delhi",
+        "country": "India",
+        "price": 190,
+        "roomsAvailable": 70,
+        "amenities": [
+            "Riverside View",
+            "Restaurant",
+            "Boating",
+            "Swimming Pool",
+            "Barbecue"
+        ],
+        "reviews": [
+            {
+                "reviewText": "Scenic riverside view, perfect for a getaway!",
+                "rating": 5
+            },
+            {
+                "reviewText": "Clean and comfortable rooms.",
+                "rating": 4
+            },
+            {
+                "reviewText": "Friendly staff, but slow service.",
+                "rating": 3
+            },
+            {
+                "reviewText": "Enjoyed the boating and barbecue.",
+                "rating": 4
+            },
+            {
+                "reviewText": "Overpriced, could find better options.",
+                "rating": 2
+            }
+        ],
+        "phone": "+919876543210",
+        "roomPictures": [
+            "https://plus.unsplash.com/premium_photo-1661884238187-1c274b3c3413?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1032&q=80",
+            "https://images.unsplash.com/photo-1496417263034-38ec4f0b665a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=871&q=80",
+            "https://images.unsplash.com/photo-1602002418082-a4443e081dd1?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=774&q=80"
+        ]
+    }
+]

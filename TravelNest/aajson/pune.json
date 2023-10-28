@@ -1,0 +1,389 @@
+[
+    {
+        "name": "Sunset Paradise Hotel",
+        "address": "123 ABC Street",
+        "city": "Pune",
+        "state": "Maharashtra",
+        "country": "India",
+        "price": 1200,
+        "roomsAvailable": 50,
+        "amenities": [
+            "Swimming Pool",
+            "Spa",
+            "Restaurant",
+            "Gym",
+            "Free Wi-Fi"
+        ],
+        "roomPictures": [
+            "https://images.unsplash.com/photo-1610677420570-366cba5fbdbc?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=874&q=80",
+            "https://images.unsplash.com/photo-1507038772120-7fff76f79d79?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=774&q=80",
+            "https://images.unsplash.com/photo-1566665797739-1674de7a421a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=774&q=80"
+        ],
+        "reviews": [
+            {
+                "reviewText": "Amazing experience, loved the pool!",
+                "rating": 4
+            },
+            {
+                "reviewText": "Friendly staff, but the rooms were small.",
+                "rating": 3
+            },
+            {
+                "reviewText": "Great location, easy access to the city center.",
+                "rating": 5
+            },
+            {
+                "reviewText": "The food at the restaurant was delicious!",
+                "rating": 5
+            },
+            {
+                "reviewText": "Clean and comfortable rooms, highly recommended.",
+                "rating": 5
+            }
+        ]
+    },
+    {
+        "name": "Riverside Retreat",
+        "address": "456 XYZ Road",
+        "city": "Pune",
+        "state": "Maharashtra",
+        "country": "India",
+        "price": 1500,
+        "roomsAvailable": 30,
+        "amenities": [
+            "Riverside View",
+            "Bar",
+            "Fitness Center",
+            "Free Parking",
+            "Conference Room"
+        ],
+        "roomPictures": [
+            "https://images.unsplash.com/photo-1610677420570-366cba5fbdbc?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=874&q=80",
+            "https://images.unsplash.com/photo-1507038772120-7fff76f79d79?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=774&q=80",
+            "https://images.unsplash.com/photo-1566665797739-1674de7a421a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=774&q=80"
+        ],
+        "reviews": [
+            {
+                "reviewText": "Beautiful view of the river from my room!",
+                "rating": 5
+            },
+            {
+                "reviewText": "The staff was not very helpful.",
+                "rating": 2
+            },
+            {
+                "reviewText": "Lovely place to relax and unwind.",
+                "rating": 4
+            },
+            {
+                "reviewText": "Clean rooms and great service.",
+                "rating": 5
+            },
+            {
+                "reviewText": "The bar had a good selection of drinks.",
+                "rating": 4
+            }
+        ]
+    },
+    {
+        "name": "Urban Oasis Hotel",
+        "address": "789 Park Avenue",
+        "city": "Pune",
+        "state": "Maharashtra",
+        "country": "India",
+        "price": 1800,
+        "roomsAvailable": 40,
+        "amenities": [
+            "Rooftop Pool",
+            "Sauna",
+            "Restaurant",
+            "Business Center",
+            "Valet Parking"
+        ],
+        "roomPictures": [
+            "https://images.unsplash.com/photo-1610677420570-366cba5fbdbc?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=874&q=80",
+            "https://images.unsplash.com/photo-1507038772120-7fff76f79d79?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=774&q=80",
+            "https://images.unsplash.com/photo-1566665797739-1674de7a421a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=774&q=80"
+        ],
+        "reviews": [
+            {
+                "reviewText": "The rooftop pool was amazing!",
+                "rating": 5
+            },
+            {
+                "reviewText": "Average food at the restaurant.",
+                "rating": 3
+            },
+            {
+                "reviewText": "Friendly and helpful staff.",
+                "rating": 4
+            },
+            {
+                "reviewText": "Comfortable rooms with great views.",
+                "rating": 4
+            },
+            {
+                "reviewText": "Convenient location for business travelers.",
+                "rating": 4
+            }
+        ]
+    },
+    {
+        "name": "Tranquil Haven Resort",
+        "address": "101 Nature Lane",
+        "city": "Pune",
+        "state": "Maharashtra",
+        "country": "India",
+        "price": 2200,
+        "roomsAvailable": 25,
+        "amenities": [
+            "Nature Trails",
+            "Outdoor Pool",
+            "Spa",
+            "Yoga Classes",
+            "Library"
+        ],
+        "roomPictures": [
+            "https://images.unsplash.com/photo-1610677420570-366cba5fbdbc?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=874&q=80",
+            "https://images.unsplash.com/photo-1507038772120-7fff76f79d79?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=774&q=80",
+            "https://images.unsplash.com/photo-1566665797739-1674de7a421a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=774&q=80"
+        ],
+        "reviews": [
+            {
+                "reviewText": "Peaceful and serene atmosphere!",
+                "rating": 5
+            },
+            {
+                "reviewText": "The spa treatments were excellent.",
+                "rating": 5
+            },
+            {
+                "reviewText": "Not suitable for those who prefer city life.",
+                "rating": 3
+            },
+            {
+                "reviewText": "Wonderful place to reconnect with nature.",
+                "rating": 5
+            },
+            {
+                "reviewText": "The library had a good selection of books.",
+                "rating": 4
+            }
+        ]
+    },
+    {
+        "name": "Royal Palace Hotel",
+        "address": "222 Regal Road",
+        "city": "Pune",
+        "state": "Maharashtra",
+        "country": "India",
+        "price": 2000,
+        "roomsAvailable": 35,
+        "amenities": [
+            "Swimming Pool",
+            "Fine Dining",
+            "Fitness Center",
+            "Banquet Hall",
+            "Concierge Service"
+        ],
+        "roomPictures": [
+            "https://images.unsplash.com/photo-1610677420570-366cba5fbdbc?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=874&q=80",
+            "https://images.unsplash.com/photo-1507038772120-7fff76f79d79?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=774&q=80",
+            "https://images.unsplash.com/photo-1566665797739-1674de7a421a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=774&q=80"
+        ],
+        "reviews": [
+            {
+                "reviewText": "Elegant and luxurious stay!",
+                "rating": 5
+            },
+            {
+                "reviewText": "The food at the fine dining restaurant was exquisite.",
+                "rating": 5
+            },
+            {
+                "reviewText": "The concierge was very helpful with sightseeing recommendations.",
+                "rating": 4
+            },
+            {
+                "reviewText": "Comfortable beds and spacious rooms.",
+                "rating": 4
+            },
+            {
+                "reviewText": "Great venue for events and weddings.",
+                "rating": 5
+            }
+        ]
+    },
+    {
+        "name": "Mountain View Lodge",
+        "address": "789 Hillside Drive",
+        "city": "Pune",
+        "state": "Maharashtra",
+        "country": "India",
+        "price": 1700,
+        "roomsAvailable": 28,
+        "amenities": [
+            "Mountain View",
+            "Hiking Trails",
+            "Cafeteria",
+            "Game Room",
+            "Free Breakfast"
+        ],
+        "roomPictures": [
+            "https://images.unsplash.com/photo-1610677420570-366cba5fbdbc?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=874&q=80",
+            "https://images.unsplash.com/photo-1507038772120-7fff76f79d79?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=774&q=80",
+            "https://images.unsplash.com/photo-1566665797739-1674de7a421a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=774&q=80"
+        ],
+        "reviews": [
+            {
+                "reviewText": "Stunning views of the mountains!",
+                "rating": 5
+            },
+            {
+                "reviewText": "The cafeteria food was just average.",
+                "rating": 3
+            },
+            {
+                "reviewText": "Fun games in the game room!",
+                "rating": 4
+            },
+            {
+                "reviewText": "Good for a short mountain getaway.",
+                "rating": 4
+            },
+            {
+                "reviewText": "Free breakfast was a nice touch.",
+                "rating": 5
+            }
+        ]
+    },
+    {
+        "name": "Harmony Suites",
+        "address": "567 Harmony Lane",
+        "city": "Pune",
+        "state": "Maharashtra",
+        "country": "India",
+        "price": 1900,
+        "roomsAvailable": 32,
+        "amenities": [
+            "Outdoor Pool",
+            "Restaurant",
+            "Fitness Center",
+            "Spa",
+            "Music Lounge"
+        ],
+        "roomPictures": [
+            "https://images.unsplash.com/photo-1610677420570-366cba5fbdbc?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=874&q=80",
+            "https://images.unsplash.com/photo-1507038772120-7fff76f79d79?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=774&q=80",
+            "https://images.unsplash.com/photo-1566665797739-1674de7a421a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=774&q=80"
+        ],
+        "reviews": [
+            {
+                "reviewText": "Loved the music lounge in the evenings!",
+                "rating": 5
+            },
+            {
+                "reviewText": "The restaurant had a variety of cuisines.",
+                "rating": 4
+            },
+            {
+                "reviewText": "The outdoor pool was well-maintained.",
+                "rating": 4
+            },
+            {
+                "reviewText": "Relaxing spa treatments!",
+                "rating": 5
+            },
+            {
+                "reviewText": "A comfortable and pleasant stay.",
+                "rating": 4
+            }
+        ]
+    },
+    {
+        "name": "Golden Sands Resort",
+        "address": "876 Beach Road",
+        "city": "Pune",
+        "state": "Maharashtra",
+        "country": "India",
+        "price": 2400,
+        "roomsAvailable": 20,
+        "amenities": [
+            "Beachfront",
+            "Water Sports",
+            "Beachside Dining",
+            "Swimming Pool",
+            "Evening Entertainment"
+        ],
+        "roomPictures": [
+            "https://images.unsplash.com/photo-1610677420570-366cba5fbdbc?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=874&q=80",
+            "https://images.unsplash.com/photo-1507038772120-7fff76f79d79?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=774&q=80",
+            "https://images.unsplash.com/photo-1566665797739-1674de7a421a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=774&q=80"
+        ],
+        "reviews": [
+            {
+                "reviewText": "The beachfront location was unbeatable!",
+                "rating": 5
+            },
+            {
+                "reviewText": "Exciting water sports activities.",
+                "rating": 4
+            },
+            {
+                "reviewText": "Great beachside dining experience.",
+                "rating": 5
+            },
+            {
+                "reviewText": "Enjoyed the evening entertainment shows.",
+                "rating": 4
+            },
+            {
+                "reviewText": "Cozy rooms with beach views.",
+                "rating": 4
+            }
+        ]
+    },
+    {
+        "name": "Sapphire Plaza",
+        "address": "345 Sapphire Street",
+        "city": "Pune",
+        "state": "Maharashtra",
+        "country": "India",
+        "price": 1600,
+        "roomsAvailable": 22,
+        "amenities": [
+            "Indoor Pool",
+            "Coffee Shop",
+            "Conference Facilities",
+            "Garden",
+            "Room Service"
+        ],
+        "roomPictures": [
+            "https://images.unsplash.com/photo-1610677420570-366cba5fbdbc?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=874&q=80",
+            "https://images.unsplash.com/photo-1507038772120-7fff76f79d79?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=774&q=80",
+            "https://images.unsplash.com/photo-1566665797739-1674de7a421a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=774&q=80"
+        ],
+        "reviews": [
+            {
+                "reviewText": "Relaxing indoor pool area!",
+                "rating": 4
+            },
+            {
+                "reviewText": "The coffee shop had a cozy ambiance.",
+                "rating": 4
+            },
+            {
+                "reviewText": "Great place for conferences and events.",
+                "rating": 4
+            },
+            {
+                "reviewText": "Beautiful garden to stroll in.",
+                "rating": 5
+            },
+            {
+                "reviewText": "Prompt room service.",
+                "rating": 5
+            }
+        ]
+    }
+]

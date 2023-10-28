@@ -1,0 +1,540 @@
+/* POPPINS FONT */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+
+
+button {
+    transition: transform 0.2s ease-in-out;
+}
+
+button:hover {
+    transform: scale(1.1);
+    cursor: pointer;
+}
+
+
+
+
+
+
+
+/* ==========================================
+** Header **
+========================================== */
+header {
+    min-height: 100vh;
+    min-width: 100%;
+
+    position: relative;
+    background-image: url(/assets_images/assets/bg-image1.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    overflow: hidden;
+}
+
+.nav {
+    margin: 20px 0px 0px;
+    position: relative;
+    z-index: 999;
+    width: 85vw;
+    height: 80px;
+    padding: 0px 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    justify-content: space-between;
+    background-color: rgba(255, 255, 255, 0.421);
+    /* background-color: rgba(255, 255, 255, .15); */
+    backdrop-filter: blur(20px);
+    border-radius: 30px;
+}
+
+.navbar {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 10px;
+}
+
+.logo_name {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.logo_name img {
+    height: 60px;
+}
+
+
+
+.dropdown {
+    position: relative;
+    display: inline-block;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    padding: 10px;
+    background-color: rgba(255, 255, 255);
+    /* backdrop-filter: blur(20px); */
+    border-radius: 30px;
+
+    min-width: 160px;
+    margin-left: -100px;
+
+    /* box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); */
+}
+
+.dropdown-content a {
+    color: #333;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+
+}
+
+.dropdown-content a:hover {
+    background-color: #ddd;
+}
+
+/* Show the dropdown when hovering over the parent element */
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+
+#menu_img {
+    height: 40px;
+}
+
+
+
+#login {
+    /* margin: 20px; */
+    height: 40px;
+    width: 100px;
+    border: none;
+    border-radius: 10px;
+    font-weight: 600;
+    background-color: #E51D27;
+    color: #def2ff;
+}
+
+
+header ul {
+    font-weight: 600;
+    list-style: none;
+    /* display: flex; */
+    /* justify-content: center;
+    align-items: center; */
+    gap: 20px;
+}
+
+header li {
+    transition: transform 0.1s ease-in-out;
+}
+
+header li:hover {
+    transform: scale(1.2);
+    cursor: pointer;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+
+/* ==========================================
+** HERO div **
+========================================== */
+
+.hero_div {
+    padding: 20px;
+    top: 0;
+    width: 100%;
+    min-height: 100vh;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+    color: white;
+}
+
+.hero_text {
+    width: 60%;
+    display: flex;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.hero_text h1 {
+    font-size: 100px;
+}
+
+.deal_of_day {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-direction: column;
+
+    margin: 0px 50px;
+    min-height: 400px;
+    width: 300px;
+    background-color: rgba(255, 255, 255, 0.421);
+    backdrop-filter: blur(20px);
+    border-radius: 0px 40px 0px 40px;
+}
+
+.deal_of_day h3 {
+    line-height: 40px;
+    margin: 20px;
+    text-align: center;
+    font-size: xx-large;
+}
+
+.deal_of_day img {
+    height: 150px;
+}
+
+#bookNow {
+    margin: 20px;
+    height: 40px;
+    width: 100px;
+    border: none;
+    border-radius: 10px;
+    font-weight: 600;
+    background-color: #E51D27;
+    color: #def2ff;
+}
+
+
+
+
+
+
+/* ==========================================
+** Featured hotels **
+========================================== */
+
+.featured_section {
+    margin: 50px 0px;
+}
+
+.container {
+    margin: 20px 0px;
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    gap: 40px;
+}
+
+.heading_featured,
+.see-all-btn {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 30px;
+}
+
+.card {
+    background-color: #f8f7f7;
+    width: 300px;
+    height: 400px;
+    overflow: hidden;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: column;
+    border-radius: 15px;
+    box-shadow: 1px 1px 40px 1px #00000052
+}
+
+.image {
+    height: 200px;
+    width: 100%;
+}
+
+.image img {
+    height: 200px;
+}
+
+.info_card {
+    width: 300px;
+    padding: 10px 15px;
+}
+
+.name {
+    font-size: xx-large;
+}
+
+.rating,
+.location {
+    padding: 3px;
+    gap: 10px;
+    display: flex;
+    align-items: center;
+}
+
+.info_card img {
+    width: 20px;
+}
+
+.info_card p {
+    font-size: smaller;
+}
+
+.card_btn,
+#seeAll {
+    margin: 10px;
+    height: 40px;
+    width: 100px;
+    border: none;
+    border-radius: 10px;
+    font-weight: 600;
+    background-color: #00B1FF;
+}
+
+#seeAll {
+    width: 200px;
+    margin-top: 40px;
+    box-shadow: 1px 1px 40px 1px #00000052
+}
+
+
+
+
+
+
+/* ==========================================
+** FAQ s **
+========================================== */
+.faq_container {
+    margin: 80px 10px 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.faq {
+    max-width: 80vw;
+    padding: 30px;
+    background-color: #def2ff;
+    border-radius: 20px;
+    box-shadow: 1px 1px 40px 1px #00000052
+}
+
+.heading {
+    text-align: center;
+    width: 100%;
+    margin: 10px 0px;
+    font-size: 25px;
+}
+
+.question {
+
+    font-size: smaller;
+    padding: 10px;
+}
+
+.question ul {
+    padding-left: 30px;
+}
+
+.que {
+    padding-bottom: 10px;
+    font-weight: 600;
+}
+
+.que,
+.ans {
+    display: flex;
+    gap: 10px;
+}
+
+.que img,
+.ans img {
+    height: 20px;
+}
+
+
+
+
+
+
+
+/* ==========================================
+** Newsletter **
+========================================== */
+
+.newsletter_container {
+    min-height: 400px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.newsletter {
+    padding: 30px 0px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-direction: column;
+    gap: 30px;
+    width: 80%;
+    min-height: 300px;
+    border-radius: 150px 10px 150px 10px;
+    background-color: rgba(223, 215, 249, 0.4);
+    /* background-color: #d7cdf6c7; */
+}
+
+.newsletter h4 {
+    color: var(--textclr, #5E6282);
+    text-align: center;
+    font-family: Poppins;
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 40px;
+}
+
+.newsletter input {
+    height: 40px;
+    width: 70%;
+    border: none;
+    border-radius: 10px;
+    text-align: center;
+}
+
+
+
+
+
+
+
+/* ==========================================
+** Footer **
+========================================== */
+
+.footer {
+    margin-top: 20px;
+    min-height: 500px;
+    background-color: #181818;
+    color: whitesmoke;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.logo_name_icons {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.logo,
+.info,
+.contact_us {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.logo img {
+    height: 200px;
+}
+
+.logo h1 {
+    text-align: center;
+    font-size: 50px;
+}
+
+.icons img {
+    padding: 20px 20px;
+    height: 80px;
+}
+
+.icons a {
+    text-decoration: none;
+}
+
+.contact_us input,
+.contact_us button {
+    margin: 10px;
+}
+
+.contact_us input {
+    width: 300px;
+    height: 40px;
+    text-align: center;
+    border-radius: 10px;
+    border: none;
+}
+
+.submit_btn {
+    height: 40px;
+    width: 100px;
+    border: none;
+    border-radius: 10px;
+    font-weight: 600;
+    background-color: #00B1FF;
+}
+
+.info_text {
+    max-width: 300px;
+    font-size: x-small;
+    text-align: center;
+    padding: 20px 0px;
+}
+
+
+
+
+
+@media only screen and (max-width: 786px) {
+
+    .logo_name h2 {
+        display: none;
+    }
+
+    .hero_text h1 {
+        font-size: xxx-large;
+    }
+
+    /* ==========================================
+        ** Newsletter **
+        ========================================== */
+
+    .newsletter {
+        border-radius: 20px;
+        padding: 20px;
+        line-height: 20px;
+    }
+
+    .newsletter h4 {
+        font-size: 20px;
+        line-height: 25px;
+    }
+}

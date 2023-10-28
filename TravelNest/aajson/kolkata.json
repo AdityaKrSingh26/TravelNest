@@ -1,0 +1,432 @@
+[
+    {
+        "name": "The Royal Palace",
+        "address": "123 Park Street",
+        "city": "Kolkata",
+        "state": "West Bengal",
+        "country": "India",
+        "price": 3500,
+        "roomsAvailable": 50,
+        "amenities": [
+            "Free Wi-Fi",
+            "Swimming Pool",
+            "Gym",
+            "Spa",
+            "Restaurant"
+        ],
+        "roomPictures": [
+            "https://images.unsplash.com/photo-1631049035182-249067d7618e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80",
+            "https://plus.unsplash.com/premium_photo-1661843652801-66305e3c980c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=837&q=80",
+            "https://images.unsplash.com/photo-1608198399988-341f712c3711?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80"
+        ],
+        "reviews": [
+            {
+                "reviewText": "Amazing hotel! Highly recommended.",
+                "rating": 5
+            },
+            {
+                "reviewText": "Great service, clean rooms.",
+                "rating": 4
+            },
+            {
+                "reviewText": "Not so great. Bad experience.",
+                "rating": 2
+            },
+            {
+                "reviewText": "Average hotel, but good location.",
+                "rating": 3
+            },
+            {
+                "reviewText": "Worst hotel ever! Avoid at all costs.",
+                "rating": 1
+            }
+        ]
+    },
+    {
+        "name": "Sunrise Inn",
+        "address": "456 Beach Road",
+        "city": "Kolkata",
+        "state": "West Bengal",
+        "country": "India",
+        "price": 2500,
+        "roomsAvailable": 30,
+        "amenities": [
+            "Free Breakfast",
+            "Parking",
+            "24/7 Front Desk",
+            "Bar",
+            "Laundry Service"
+        ],
+        "roomPictures": [
+            "https://images.unsplash.com/photo-1631049035182-249067d7618e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80",
+            "https://plus.unsplash.com/premium_photo-1661843652801-66305e3c980c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=837&q=80",
+            "https://images.unsplash.com/photo-1608198399988-341f712c3711?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80"
+        ],
+        "reviews": [
+            {
+                "reviewText": "Good value for money.",
+                "rating": 4
+            },
+            {
+                "reviewText": "Nice hotel near the beach.",
+                "rating": 4
+            },
+            {
+                "reviewText": "Terrible experience. Avoid this place.",
+                "rating": 1
+            },
+            {
+                "reviewText": "Decent hotel for a short stay.",
+                "rating": 3
+            },
+            {
+                "reviewText": "Excellent service and clean rooms.",
+                "rating": 5
+            }
+        ]
+    },
+    {
+        "name": "Green Oasis Resort",
+        "address": "789 Garden Lane",
+        "city": "Kolkata",
+        "state": "West Bengal",
+        "country": "India",
+        "price": 4500,
+        "roomsAvailable": 20,
+        "amenities": [
+            "Swimming Pool",
+            "Spa",
+            "Restaurant",
+            "Fitness Center",
+            "Conference Rooms"
+        ],
+        "roomPictures": [
+            "https://images.unsplash.com/photo-1631049035182-249067d7618e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80",
+            "https://plus.unsplash.com/premium_photo-1661843652801-66305e3c980c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=837&q=80",
+            "https://images.unsplash.com/photo-1608198399988-341f712c3711?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80"
+        ],
+        "reviews": [
+            {
+                "reviewText": "Beautiful and relaxing resort.",
+                "rating": 5
+            },
+            {
+                "reviewText": "Lovely gardens and courteous staff.",
+                "rating": 4
+            },
+            {
+                "reviewText": "Overpriced for what it offers.",
+                "rating": 2
+            },
+            {
+                "reviewText": "Great place for a weekend getaway.",
+                "rating": 4
+            },
+            {
+                "reviewText": "Unfriendly staff. Won't come back.",
+                "rating": 1
+            }
+        ]
+    },
+    {
+        "name": "City View Hotel",
+        "address": "101 Skyline Avenue",
+        "city": "Kolkata",
+        "state": "West Bengal",
+        "country": "India",
+        "price": 3000,
+        "roomsAvailable": 40,
+        "amenities": [
+            "Free Wi-Fi",
+            "Restaurant",
+            "Bar",
+            "Conference Rooms",
+            "Concierge Service"
+        ],
+        "roomPictures": [
+            "https://images.unsplash.com/photo-1631049035182-249067d7618e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80",
+            "https://plus.unsplash.com/premium_photo-1661843652801-66305e3c980c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=837&q=80",
+            "https://images.unsplash.com/photo-1608198399988-341f712c3711?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80"
+        ],
+        "reviews": [
+            {
+                "reviewText": "Nice view from the rooms.",
+                "rating": 4
+            },
+            {
+                "reviewText": "Average hotel, but great location.",
+                "rating": 3
+            },
+            {
+                "reviewText": "Clean and comfortable rooms.",
+                "rating": 4
+            },
+            {
+                "reviewText": "Terrible service. Avoid this place.",
+                "rating": 1
+            },
+            {
+                "reviewText": "Excellent stay. Will come back.",
+                "rating": 5
+            }
+        ]
+    },
+    {
+        "name": "Golden Palace Suites",
+        "address": "222 Golden Street",
+        "city": "Kolkata",
+        "state": "West Bengal",
+        "country": "India",
+        "price": 3800,
+        "roomsAvailable": 25,
+        "amenities": [
+            "Free Breakfast",
+            "Gym",
+            "Spa",
+            "Laundry Service",
+            "Airport Shuttle"
+        ],
+        "roomPictures": [
+            "https://images.unsplash.com/photo-1631049035182-249067d7618e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80",
+            "https://plus.unsplash.com/premium_photo-1661843652801-66305e3c980c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=837&q=80",
+            "https://images.unsplash.com/photo-1608198399988-341f712c3711?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80"
+        ],
+        "reviews": [
+            {
+                "reviewText": "Luxurious and spacious suites.",
+                "rating": 5
+            },
+            {
+                "reviewText": "Helpful staff and great amenities.",
+                "rating": 4
+            },
+            {
+                "reviewText": "Overpriced for what you get.",
+                "rating": 2
+            },
+            {
+                "reviewText": "Good for a business trip.",
+                "rating": 3
+            },
+            {
+                "reviewText": "Dirty rooms. Avoid at all costs.",
+                "rating": 1
+            }
+        ]
+    },
+    {
+        "name": "Seaside Paradise Resort",
+        "address": "567 Beachfront Road",
+        "city": "Kolkata",
+        "state": "West Bengal",
+        "country": "India",
+        "price": 4200,
+        "roomsAvailable": 18,
+        "amenities": [
+            "Swimming Pool",
+            "Beach Access",
+            "Restaurant",
+            "Spa",
+            "Water Sports"
+        ],
+        "roomPictures": [
+            "https://images.unsplash.com/photo-1631049035182-249067d7618e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80",
+            "https://plus.unsplash.com/premium_photo-1661843652801-66305e3c980c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=837&q=80",
+            "https://images.unsplash.com/photo-1608198399988-341f712c3711?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80"
+        ],
+        "reviews": [
+            {
+                "reviewText": "Beautiful beachfront property.",
+                "rating": 5
+            },
+            {
+                "reviewText": "Great for a family vacation.",
+                "rating": 4
+            },
+            {
+                "reviewText": "Not worth the price.",
+                "rating": 2
+            },
+            {
+                "reviewText": "Average experience overall.",
+                "rating": 3
+            },
+            {
+                "reviewText": "Awful service. Stay away.",
+                "rating": 1
+            }
+        ]
+    },
+    {
+        "name": "Urban Retreat Hotel",
+        "address": "321 Downtown Avenue",
+        "city": "Kolkata",
+        "state": "West Bengal",
+        "country": "India",
+        "price": 2800,
+        "roomsAvailable": 35,
+        "amenities": [
+            "Free Wi-Fi",
+            "Restaurant",
+            "Bar",
+            "Fitness Center",
+            "Business Center"
+        ],
+        "roomPictures": [
+            "https://images.unsplash.com/photo-1631049035182-249067d7618e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80",
+            "https://plus.unsplash.com/premium_photo-1661843652801-66305e3c980c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=837&q=80",
+            "https://images.unsplash.com/photo-1608198399988-341f712c3711?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80"
+        ],
+        "reviews": [
+            {
+                "reviewText": "Convenient location for business travelers.",
+                "rating": 4
+            },
+            {
+                "reviewText": "Clean and comfortable rooms.",
+                "rating": 4
+            },
+            {
+                "reviewText": "Overpriced for what it offers.",
+                "rating": 2
+            },
+            {
+                "reviewText": "Good for a short stay.",
+                "rating": 3
+            },
+            {
+                "reviewText": "Rude staff. Won't recommend.",
+                "rating": 1
+            }
+        ]
+    },
+    {
+        "name": "Mystic Garden Resort",
+        "address": "987 Nature Trail",
+        "city": "Kolkata",
+        "state": "West Bengal",
+        "country": "India",
+        "price": 3900,
+        "roomsAvailable": 22,
+        "amenities": [
+            "Gardens",
+            "Spa",
+            "Restaurant",
+            "Trekking Trails",
+            "Bird Watching"
+        ],
+        "roomPictures": [
+            "https://images.unsplash.com/photo-1631049035182-249067d7618e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80",
+            "https://plus.unsplash.com/premium_photo-1661843652801-66305e3c980c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=837&q=80",
+            "https://images.unsplash.com/photo-1608198399988-341f712c3711?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80"
+        ],
+        "reviews": [
+            {
+                "reviewText": "A peaceful retreat in nature.",
+                "rating": 5
+            },
+            {
+                "reviewText": "Great for nature lovers.",
+                "rating": 4
+            },
+            {
+                "reviewText": "Not suitable for city dwellers.",
+                "rating": 2
+            },
+            {
+                "reviewText": "Unique experience. Loved it!",
+                "rating": 4
+            },
+            {
+                "reviewText": "Horrible food. Stay away.",
+                "rating": 1
+            }
+        ]
+    },
+    {
+        "name": "Elegant Plaza Hotel",
+        "address": "555 Business District",
+        "city": "Kolkata",
+        "state": "West Bengal",
+        "country": "India",
+        "price": 3200,
+        "roomsAvailable": 28,
+        "amenities": [
+            "Free Breakfast",
+            "Fitness Center",
+            "Restaurant",
+            "Conference Rooms",
+            "Car Rental"
+        ],
+        "roomPictures": [
+            "https://images.unsplash.com/photo-1631049035182-249067d7618e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80",
+            "https://plus.unsplash.com/premium_photo-1661843652801-66305e3c980c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=837&q=80",
+            "https://images.unsplash.com/photo-1608198399988-341f712c3711?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80"
+        ],
+        "reviews": [
+            {
+                "reviewText": "Good for business meetings.",
+                "rating": 4
+            },
+            {
+                "reviewText": "Comfortable stay and good service.",
+                "rating": 4
+            },
+            {
+                "reviewText": "Overpriced for what it offers.",
+                "rating": 2
+            },
+            {
+                "reviewText": "Decent hotel for a short stay.",
+                "rating": 3
+            },
+            {
+                "reviewText": "Terrible experience. Avoid!",
+                "rating": 1
+            }
+        ]
+    },
+    {
+        "name": "Tranquil Haven Retreat",
+        "address": "777 Serenity Lane",
+        "city": "Kolkata",
+        "state": "West Bengal",
+        "country": "India",
+        "price": 4300,
+        "roomsAvailable": 15,
+        "amenities": [
+            "Spa",
+            "Yoga Classes",
+            "Meditation Sessions",
+            "Gardens",
+            "Healthy Dining"
+        ],
+        "roomPictures": [
+            "https://images.unsplash.com/photo-1631049035182-249067d7618e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80",
+            "https://plus.unsplash.com/premium_photo-1661843652801-66305e3c980c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=837&q=80",
+            "https://images.unsplash.com/photo-1608198399988-341f712c3711?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80"
+        ],
+        "reviews": [
+            {
+                "reviewText": "A peaceful and spiritual retreat.",
+                "rating": 5
+            },
+            {
+                "reviewText": "Great for relaxation and wellness.",
+                "rating": 4
+            },
+            {
+                "reviewText": "Not suitable for party-goers.",
+                "rating": 2
+            },
+            {
+                "reviewText": "Unique experience. Highly recommended!",
+                "rating": 4
+            },
+            {
+                "reviewText": "Terrible food. Avoid this place.",
+                "rating": 1
+            }
+        ]
+    }
+]

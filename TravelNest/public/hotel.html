@@ -1,0 +1,209 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="shortcut icon" href="assets_images/assets/logo.jpg" type="image/x-icon">
+    <title>TravelNest | Hotel Booking</title>
+    <link rel="stylesheet" href="css/hotel.css">
+</head>
+
+<body>
+    <header>
+
+        <nav class="nav">
+            <div class="logo_name">
+                <img src="assets_images/assets/logo.jpg" alt="">
+                <h2>TravelNest</h2>
+            </div>
+            <!-- <div class="navbar">
+                <a href="login.html"><button id="login">Login</button></a>
+            </div> -->
+        </nav>
+
+    </header>
+
+
+    <!-- Slideshow container -->
+    <div class="slideshow-container">
+
+        <!-- Full-width images with number and caption text -->
+        <div class="mySlides fade">
+            <img src="assets_images/hotel_rooms/room2.jpg" style="width:100%; height:60vh; object-fit: cover;">
+        </div>
+
+        <div class="mySlides fade">
+            <img src="assets_images/hotel_rooms/room1.jpg" style="width:100%; height:60vh; object-fit: cover;">
+        </div>
+
+        <div class="mySlides fade">
+            <img src="assets_images/hotel_rooms/room3.jpg" style="width:100%; height:60vh; object-fit: cover;">
+        </div>
+
+        <!-- Next and previous buttons -->
+        <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
+        <a class="next" onclick="plusSlides(1)">&#10095;</a>
+    </div>
+    <br>
+
+    <!-- The dots/circles -->
+    <div style="text-align:center">
+        <span class="dot" onclick="currentSlide(1)"></span>
+        <span class="dot" onclick="currentSlide(2)"></span>
+        <span class="dot" onclick="currentSlide(3)"></span>
+    </div>
+
+
+    <div class="details-booking">
+
+        <div class="info">
+
+            <div class="hotel-details">
+                <h1 class="hotel_name">Hotel Name</h1>
+                <div class="location">
+                    <img src="assets_images/assets/icons/location.png" alt="">
+                    <p class="location_text">Mumbai , India</p>
+                </div>
+                <div class="rating">
+                    <img src="assets_images/assets/icons/rating.png" alt="">
+                    <p class="rating_text">4.96 / 5</p>
+                </div>
+                <h3 class="price"> Price : $300 </h3>
+
+                <p class="rooms_available"> Rooms Available : 80</p>
+                <div class="amenitie">
+                    <h3>Ameniites</h3>
+                    <ul>
+                        <li>Private Beach</li>
+                        <li>Tennis Courts</li>
+                        <li>Spa</li>
+                        <li>Restaurant</li>
+                        <li>Room Service</li>
+                    </ul>
+                </div>
+
+            </div>
+
+        </div>
+
+
+        <div class="booking-details">
+            <h2 class="Title">Booking Details</h2>
+
+            <form action="/book" class="book-form">
+
+                <div class="cnt-check-in">
+                    <h3>From : </h3>
+                    <input type="date" name="checkin-date" id="checkin-date">
+                </div>
+
+                <div class="cnt-check-out">
+                    <h3>To : </h3>
+                    <input type="date" name="checkout-date" id="checkout-date">
+                </div>
+
+                <div class="cnt-btn">
+                    <button type="submit">Book Now</button>
+                </div>
+
+            </form>
+        </div>
+
+    </div>
+
+
+    </div>
+
+
+
+
+
+
+
+
+
+
+
+
+    <footer class="footer">
+
+        <div class="logo_name_icons">
+
+            <div class="logo">
+                <img src="assets_images/assets/logo.jpg" alt="logo">
+                <h1>TravelNest</h1>
+            </div>
+
+        </div>
+
+        <div class="info">
+
+            <div class="contact_us">
+                <input type="email" id="email" placeholder="something@example.com">
+                <input type="text" id="description" placeholder="Enter your thoughts">
+                <button type="submit" class="submit_btn">Submit</button>
+            </div>
+            <div class="info_text">
+                <p>At TravelNest, we are committed to safeguarding your privacy. We only collect essential
+                    information
+                    for booking purposes and never share your data with third parties. Your personal details are
+                    secure
+                    with us.</p>
+            </div>
+
+            <div class="icons">
+                <a href="https://www.facebook.com" target="_blank">
+                    <img src="assets_images/assets/icons/facebook.png">
+                </a>
+                <a href="https://www.instagram.com" target="_blank">
+                    <img src="assets_images/assets/icons/instagram.png">
+                </a>
+                <a href="https://twitter.com" target="_blank">
+                    <img src="assets_images/assets/icons/twitter.png">
+                </a>
+                <a href="https://www.youtube.com" target="_blank">
+                    <img src="assets_images/assets/icons/youtube.png">
+                </a>
+            </div>
+        </div>
+
+    </footer>
+
+
+
+
+
+    <script>
+        let slideIndex = 1;
+        showSlides(slideIndex);
+
+        // Next/previous controls
+        function plusSlides(n) {
+            showSlides(slideIndex += n);
+        }
+
+        // Thumbnail image controls
+        function currentSlide(n) {
+            showSlides(slideIndex = n);
+        }
+
+        function showSlides(n) {
+            let i;
+            let slides = document.getElementsByClassName("mySlides");
+            let dots = document.getElementsByClassName("dot");
+            if (n > slides.length) { slideIndex = 1 }
+            if (n < 1) { slideIndex = slides.length }
+            for (i = 0; i < slides.length; i++) {
+                slides[i].style.display = "none";
+            }
+            for (i = 0; i < dots.length; i++) {
+                dots[i].className = dots[i].className.replace(" active", "");
+            }
+            slides[slideIndex - 1].style.display = "block";
+            dots[slideIndex - 1].className += " active";
+        }
+    </script>
+</body>
+
+</html>
