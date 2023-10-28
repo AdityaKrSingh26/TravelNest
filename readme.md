@@ -6,13 +6,13 @@ TravelNest is a hotel booking website with a modern user interface and a user-fr
 ## Screenshots
 Include screenshots of your project here.
 !["login"](UI/login.png)
-(UI/homepage.png)
-(UI/featured.png)
-(UI/faq.png)
-(UI/footer.png)
-(UI/hotels.png)
-(UI/booking1.png)
-(UI/booking2.png)
+![](UI/homepage.png)
+![](UI/featured.png)
+![](UI/faq.png)
+![](UI/footer.png)
+![](UI/hotels.png)
+![](UI/booking1.png)
+![](UI/booking2.png)
 
 
 ## Features Implemented
